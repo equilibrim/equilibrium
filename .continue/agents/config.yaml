@@ -3,23 +3,34 @@ version: 1.0.0
 schema: v1
 
 models:
-  - name: Claude Sonnet (Cloud)
+  - name: Gemini 2.0 Flash 
+    provider: gemini
+    model: gemini-3-flash-preview
+    apiKey: AIzaSyCywuQB2Z5YVik_YzfRF3C2Ttq_w3sVPh0
+    defaultCompletionOptions:
+      contextLength: 1000000
+
+  - name: Gemini 2.5 Pro (Large Context)
+    provider: gemini
+    model: gemini-2.5-pro
+    apiKey: AIzaSyCywuQB2Z5YVik_YzfRF3C2Ttq_w3sVPh0
+    defaultCompletionOptions:
+      contextLength: 1000000
+
+  - name: Claude Sonnet (Analysis)
     provider: anthropic
     model: claude-sonnet-4-6
-    apiKey: $ANTHROPIC_API_KEY
-
-  - name: Llama 3.1 8B (Local)
-    provider: ollama
-    model: llama3.1:8b
+    apiKey: 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
+    defaultCompletionOptions:
+      contextLength: 200000
 
   - name: Qwen Coder (Local)
     provider: ollama
     model: qwen2.5-coder:14b
 
-  - name: Llama 3.3 70B (Groq)
-    provider: groq
-    model: llama-3.3-70b-versatile
-    apiKey: $GROQ_API_KEY
+  - name: Llama 3.1 8B (Local)
+    provider: ollama
+    model: llama3.1:8b
 
 prompts:
   - name: default
