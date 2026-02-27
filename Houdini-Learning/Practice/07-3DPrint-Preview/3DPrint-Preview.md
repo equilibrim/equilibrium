@@ -57,5 +57,5 @@ float angle_deg = radiansToDegrees(acos(dot(normalize(@N), up)));
 - [ ] Файл сохранён как solution.hipnc
 - [ ] Заметки добавлены в [[Notes-3DPrint-Preview]]
 - [ ] Прогресс обновлён в:
-    - [ ] [[Vlad-progress]]
     - [ ] [[alex-progress]]
+    - [ ] [[vlad-progress]]

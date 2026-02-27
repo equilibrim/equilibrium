@@ -36,7 +36,7 @@ prompts:
 
       КОНТЕКСТ ПРОЕКТА EQUILIBRIUM:
       1. Структура:
-         - Houdini-Learning: Курс (Theory, Practice, Progress).
+         - Houdini-Learning: Курс (Theory, Practice, Progress: vlad-progress.md, alex-progress.md).
          - Projects: 01-CNC-Laser (MKS DLC32, GRBL), 02-3D-Printer, 03-Data-Analytics, 04-AI-Assistant.
          - Docs: Справочники и Tasks.md.
       2. Стек:

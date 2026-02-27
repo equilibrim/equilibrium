@@ -24,7 +24,7 @@ equilibrium/
 ├── Houdini-Learning/        # Курс по SideFX Houdini
 │   ├── Theory/              # 10 теоретических модулей
 │   ├── Practice/            # 10 практических заданий
-│   ├── Progress/            # Vlad-progress.md, Alex-progress.md
+│   ├── Progress/            # vlad-progress.md, alex-progress.md
 │   └── Resources/           # Глоссарий, курсы, плейлисты
 ├── Projects/
 │   ├── 01-CNC-Laser/        # Лазерный станок
@@ -144,7 +144,7 @@ team: Vlad
 | `qwen-coder (local)` | Написание и отладка кода |
 | `llama3.1:8b (local)` | Быстрые локальные задачи |
 
-Подробнее — [[Projects/04-AI-Assistant/04-AI-Assistant.md]].
+Подробнее — [[Projects/04-AI-Assistant/04-AI-Assistant]].
 
 ---
 
