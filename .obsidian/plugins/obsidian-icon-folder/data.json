@@ -58,7 +58,6 @@
     "iconColor": "#004cff"
   },
   "Projects/04-AI-Assistant": "LiAsteriskSquare",
-  "Houdini-Learning/Progress/Alex-progress.md": "LiActivity",
   "Houdini-Learning/Progress/Vlad-progress.md": "LiActivity",
   "Houdini-Learning/Theory/01-Interface-Basics.md": {
     "iconName": "LiApple",
@@ -185,5 +184,6 @@
     "iconName": "LiApple",
     "iconColor": "#aba203"
   },
-  "Houdini-Learning/Practice/10-Procedural-Cities/Notes-Procedural-Cities.md": "LiAsteriskSquare"
+  "Houdini-Learning/Practice/10-Procedural-Cities/Notes-Procedural-Cities.md": "LiAsteriskSquare",
+  "Houdini-Learning/Progress/alex-progress.md": "LiActivity"
 }

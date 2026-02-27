@@ -69,5 +69,5 @@ addprim(0, "polyline", pts);
 - [ ] Заметки добавлены в [[Notes-CNC-Toolpath-Vis]]
 - [ ] Прогресс обновлён в:
     - [ ] [[Vlad-progress]]
-    - [ ] [[Alex-progress]]
+    - [ ] [[alex-progress]]
 - [ ] (Опционально) Реальный G-code импортирован и отображён

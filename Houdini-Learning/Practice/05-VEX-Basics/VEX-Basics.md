@@ -46,4 +46,4 @@ if (@P.x > 0) {
 - [ ] Заметки о трудностях и идеях добавлены в [[Notes-VEX-Basics]]
 - [ ] Прогресс обновлён в:
   - [ ]  [[Vlad-progress]]
-  - [ ]  [[Alex-progress]]
+  - [ ]  [[alex-progress]]

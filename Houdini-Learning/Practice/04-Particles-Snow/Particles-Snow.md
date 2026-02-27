@@ -47,4 +47,4 @@
 - [ ] Заметки в  [[Notes-Particles-Snow]]
 - [ ] Прогресс обновлён в:
     - [ ] [[Vlad-progress]]
-    - [ ] [[Alex-progress]]
+    - [ ] [[alex-progress]]

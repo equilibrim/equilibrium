@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "e43fc25f17d7f915",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
-            }
-          },
-          {
             "id": "7c322cc770d2f560",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,6 +219,7 @@
   },
   "active": "18373721d63cd4be",
   "lastOpenFiles": [
+    "Projects/01-CNC-Laser/Docs/CNC self hands.md",
     "Home.md",
     "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
     "Projects/04-AI-Assistant/Docs/local-ai-guide.md",
@@ -244,7 +233,7 @@
     "Houdini-Learning/Theory/09-Pyro-Fundamentals.md",
     "Houdini-Learning/Theory/08-Vellum-Fundamentals.md",
     "Houdini-Learning/Progress/vlad-progress.md",
-    "Houdini-Learning/Progress/Alex-progress.md",
+    "Houdini-Learning/Progress/alex-progress.md",
     "Houdini-Learning/Resources/Free-Courses.md",
     "Houdini-Learning/Resources/Glossary-RU.md",
     "Houdini-Learning/Integration-Hub.md",
@@ -264,7 +253,6 @@
     "Projects/03-Data-Analytics/Scripts/svod/e-mail-sorter-v4.2.py",
     "Projects/03-Data-Analytics/Scripts/svod/e-mail-parser-v1.3.py",
     "Projects/03-Data-Analytics/Scripts/svod/TXT/organization.md",
-    "Projects/03-Data-Analytics/Scripts/svod/TXT/key.md",
     "Projects/03-Data-Analytics/Scripts/svod/TXT",
     "Projects/01-CNC-Laser/CNC.canvas",
     "Inbox/system-prompt.txt",

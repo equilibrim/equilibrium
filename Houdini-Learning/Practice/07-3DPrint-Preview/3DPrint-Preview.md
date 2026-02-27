@@ -58,4 +58,4 @@ float angle_deg = radiansToDegrees(acos(dot(normalize(@N), up)));
 - [ ] Заметки добавлены в [[Notes-3DPrint-Preview]]
 - [ ] Прогресс обновлён в:
     - [ ] [[Vlad-progress]]
-    - [ ] [[Alex-progress]]
+    - [ ] [[alex-progress]]
