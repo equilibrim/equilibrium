@@ -44,12 +44,18 @@ class secondary
 
 ---
 
-## 📊 Проекты
+## 🔭 Обзор системы
+
+### 🚧 Активные проекты
 
 ```dataview
-TABLE status AS "Статус", priority AS "Приоритет", team AS "Ответственные"
+TABLE WITHOUT ID
+	file.link as "Проект",
+	status AS "Статус",
+	priority AS "Приоритет",
+	team AS "Команда"
 FROM "Projects"
-WHERE priority AND status
+WHERE status != "done" AND status != "on-hold"
 SORT priority ASC
 ```
 

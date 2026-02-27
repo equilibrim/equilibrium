@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -223,8 +223,9 @@
   },
   "active": "7c322cc770d2f560",
   "lastOpenFiles": [
-    "DATABASE.base",
+    "WTF.canvas",
     "Home.md",
+    "DATABASE.base",
     "Docs/SESSION_CONTEXT.md",
     "Projects/04-AI-Assistant/04-AI-Assistant.md",
     "Inbox/промт.txt",
@@ -261,7 +262,6 @@
     "Projects/03-Data-Analytics/Scripts/svod/TXT",
     "Projects/01-CNC-Laser/CNC.canvas",
     "Inbox/system-prompt.txt",
-    "Houdini-Learning/Practice/10-Procedural-Cities",
     "Docs/Houdini-Reference/01-Basics/images/ui/viewports_space_t2.png",
     "Docs/Houdini-Reference/01-Basics/images/ui/viewports_space_t1.png",
     "Docs/Houdini-Reference/01-Basics/images/ui/view_pivot.jpg",
@@ -274,7 +274,6 @@
     "Docs/Houdini-Reference/01-Basics/images/ui/main_window.svg",
     "CNC.canvas",
     "AI.canvas",
-    "WTF.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
