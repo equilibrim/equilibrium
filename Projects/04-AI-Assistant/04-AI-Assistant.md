@@ -1,5 +1,3 @@
-04 ai assistant · MD
-Copy
 
 ---
 status: in-progress

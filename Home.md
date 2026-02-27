@@ -46,35 +46,33 @@ class secondary
 
 ## 🔭 Обзор системы
 
-### 🚧 Активные проекты
+###  Активные проекты
 
-```dataview
-TABLE WITHOUT ID
-	file.link as "Проект",
-	status AS "Статус",
-	priority AS "Приоритет",
-	team AS "Команда"
-FROM "Projects"
-WHERE status != "done" AND status != "on-hold"
-SORT priority ASC
-```
+>[!example]- Детали прогресса (развернуть)
+>```dataview
+>TABLE WITHOUT ID
+>	  file.link as "Проект",
+> 	status AS "Статус",
+> 	priority AS "Приоритет",
+> 	team AS "Команда"
+>FROM "Projects"
+>WHERE status != "done" AND status != "on-hold"
+>SORT priority ASC
+>```
 
+### 🎓 Houdini — Прогресс обучения
+
+> [!example]- Детали прогресса (развернуть)
+> ```dataview
+> TABLE WITHOUT ID
+>   file.link AS "Модуль",
+>   length(filter(file.tasks, (t) => t.completed)) + " / " + length(file.tasks) AS "Прогресс"
+> FROM "Houdini-Learning/Progress"
+> SORT file.name ASC
+> ```
 ---
 
-## 📚 Houdini — Прогресс
-
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Участник",
-  length(filter(file.tasks, (t) => t.completed)) AS "✅ Выполнено",
-  length(filter(file.tasks, (t) => !t.completed)) AS "⬜ Осталось"
-FROM "Houdini-Learning/Progress"
-SORT file.name ASC
-```
-
----
-
-## 🔴 Активные задачи
+## 🔥 Горящие задачи (Top 5)
 
 ```tasks
 not done
@@ -86,6 +84,10 @@ sort by priority
 
 ---
 
-## 🗺️ Карта проекта
+## 🗺️ Навигация
 
-[[WTF.canvas]]
+> [!abstract] Карты и структуры
+> *   [[Docs/Pathregist|🛣️ Pathregist (Роадмап)]]
+> *   [[WTF.canvas|🗺️ Карта связей (Canvas)]]
+> *   [[Inbox|📥 Inbox (Входящие)]]
+> *   [[Tasks|📋 Глобальный список задач]]
