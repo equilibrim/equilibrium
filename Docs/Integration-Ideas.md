@@ -1,12 +1,14 @@
+# Интеграция API (Черновик)
+
+## Прототип на FastAPI
+
+```python
 """Апи"""
 from fastapi import FastAPI
 import json
+import requests
 
 app = FastAPI()
-
-# Дизайн системы
-# Схема данных
-# API
 
 @app.get("/items/")
 async def read_items():
@@ -16,23 +18,16 @@ async def read_items():
 async def create_item(item: dict):
     return item
 
-
-# Основные функции
 def get_data_from_api(url, token):
     """
-        Получает данные из API по переданному URL и ключу
-        :param url: Адрес для запроса
-        :type url: str
-        :param token: Ключ для авторизации
-        :type token: str
-        :return: Результат выполнения API-requests
-        :rtype: dict
+    Получает данные из API по переданному URL и ключу
     """
     headers = {
         "Authorization": f"Bearer {token}"
     }
     response = requests.get(url, headers=headers)
     return json.loads(response.text)
+```
 
 
 # Варианты реализации интеграции
