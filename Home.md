@@ -1,6 +1,5 @@
 # 🧠 Equilibrium
 
-<<<<<<< HEAD
 > [!quote] Vision
 > «Единая система знаний — основа инженерного мастерства»
 > — *В. & А.*
@@ -20,54 +19,31 @@ name 💡 Новая идея
 type command
 action Templater: Create new note from template
 class primary
-=======
-> «Единая система знаний — основа инженерного мастерства»
-> — В. & А.
-
----
-
-## 🚀 Быстрые действия
-
-```button
-name ➕ Новая идея
-type command
-action Templater: Create new note from template
->>>>>>> 53265070ff5d362fb38377424e7448472008f56d
 ```
 
 ```button
 name 📝 Новый проект
 type command
 action Templater: Create new note from template
-<<<<<<< HEAD
 class primary
-=======
->>>>>>> 53265070ff5d362fb38377424e7448472008f56d
 ```
 
 ```button
 name ✅ Задачи
 type link
 action obsidian://open?file=Tasks
-<<<<<<< HEAD
 class secondary
-=======
->>>>>>> 53265070ff5d362fb38377424e7448472008f56d
 ```
 
 ```button
 name ♻️ Синхронизировать
 type command
 action Git: Commit-and-sync
-<<<<<<< HEAD
 class secondary
-=======
->>>>>>> 53265070ff5d362fb38377424e7448472008f56d
 ```
 
 ---
 
-<<<<<<< HEAD
 ## 🔭 Обзор системы
 
 ### Активные проекты
@@ -97,49 +73,17 @@ class secondary
 ---
 
 ## 🔥 Горящие задачи (Top 5)
-=======
-## 📊 Проекты
-
-```dataview
-TABLE status AS "Статус", priority AS "Приоритет", team AS "Ответственные"
-FROM "Projects"
-WHERE priority AND status
-SORT priority ASC
-```
-
----
-
-## 📚 Houdini — Прогресс
-
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Участник",
-  length(filter(file.tasks, (t) => t.completed)) AS "✅ Выполнено",
-  length(filter(file.tasks, (t) => !t.completed)) AS "⬜ Осталось"
-FROM "Houdini-Learning/Progress"
-SORT file.name ASC
-```
-
----
-
-## 🔴 Активные задачи
->>>>>>> 53265070ff5d362fb38377424e7448472008f56d
 
 ```tasks
 not done
 priority is highest
-<<<<<<< HEAD
 priority is high
-=======
-OR priority is high
->>>>>>> 53265070ff5d362fb38377424e7448472008f56d
 limit 5
 sort by priority
 ```
 
 ---
 
-<<<<<<< HEAD
 ## 🗺️ Навигация
 
 > [!abstract] Карты и структуры
@@ -147,8 +91,3 @@ sort by priority
 > *   [[WTF.canvas|🗺️ Карта связей (Canvas)]]
 > *   [[Inbox|📥 Inbox (Входящие)]]
 > *   [[Tasks|📋 Глобальный список задач]]
-=======
-## 🗺️ Карта проекта
-
-[[WTF.canvas]]
->>>>>>> 53265070ff5d362fb38377424e7448472008f56d
