@@ -3,3 +3,4 @@
 [[how-to-start-ai]]
 [[Local-assistant]]
 [[local-ai-guide]]
+[[Continue-Setup]]

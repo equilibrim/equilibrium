@@ -1,5 +1,5 @@
 ---
-status: draft
+status: stable
 priority: 02-high
 tags: [ai, hardware, benchmark]
 ---
