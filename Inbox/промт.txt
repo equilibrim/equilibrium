@@ -1,0 +1,42 @@
+Владислав (22 года, инженер-программист, магистратура) и Александр совместно разрабатывают образовательную и инженерную экосистему Equilibrium — репозиторий с проектами по процедурному моделированию, CNC, 3D-печати и автоматизации.
+Структура репозитория:
+equilibrium/
+├── Houdini-Learning/          # Курс по SideFX Houdini (в корне!)
+│   ├── Theory/                # 10 модулей: от интерфейса до Pyro/Vellum
+│   ├── Practice/              # 10 практических заданий (01–10)
+│   ├── Progress/              # vlad-progress.md, alexander-progress.md
+│   ├── Resources/             # Glossary-RU.md
+│   └── Roadmap.canvas         # Визуальная карта обучения
+├── Projects/
+│   ├── 01-CNC-Laser/          # Лазерный станок (планируется к покупке)
+│   ├── 02-3D-Printer/         # 3D-печать (планируется к покупке)
+│   ├── 03-Data-Analytics/     # Python-скрипты
+│   └── 04-AI-Assistant/       # Эксперименты с ИИ
+├── Docs/
+│   ├── Houdini-Reference/     # Адаптированная справка на основе houdini_help/
+│   │   ├── 01-Basics/         # interface-and-basics.md + images/ui/ + videos/
+│   │   └── ...                # (будут добавлены 02–10 по мере развития курса)
+│   └── Tasks/                 # Центральный трекер задач (Tasks.md)
+└── .obsidian/                 # Полностью синхронизируемые настройки Obsidian
+
+**Технологии**:
+- **Obsidian** с плагинами: `Tasks`, `Note Toolbar`, `Templater`, `Dataview`, `Advanced Canvas`, `Kanban`, `Git`, `Admonition`, `Editing Toolbar`, `Emoji Toolbar`, `Iconize`
+- **Git** — полная синхронизация конфигурации Obsidian и учебных материалов
+- **SideFX Houdini 20.5–21.0**
+- **Windows** (RTX 3060, 64 ГБ RAM, AMD R7 5700G)
+
+**Реализовано**:
+✅ **Курс Houdini**: 10 модулей (Интерфейс → Ноды → Геометрия → Динамика → VEX → Интеграция → Vellum → Pyro → Procedural Modeling)
+✅ **Глоссарий терминов** — с разделами по Vellum, Pyro, Procedural, ссылками на изображения и видео
+✅ **Справочная система** (`Docs/Houdini-Reference/`) — адаптированные материалы из `houdini_help/` с рабочими ссылками на локальные изображения и видео
+✅ **Централизованный трекер задач** (`Docs/Tasks/Tasks.md`) — на базе **Obsidian Tasks** с глобальным фильтром `#task`
+✅ **Система прогресса** — файлы `vlad-progress.md`, `alexander-progress.md`
+✅ **Obsidian-инфраструктура**: шаблоны, Note Toolbar, Kanban, Git-синхронизация
+
+**Особенности**:
+- Все задачи помечаются тегом `#task`
+- Используется команда **«Tasks: Toggle Done»** (`Ctrl+Enter`)
+- Физическое оборудование **ещё не приобретено** — работа на этапе симуляции и планирования
+- Проект **Equilibrium** — это сам репозиторий
+
+**Цель**: создание портфолио, автоматизация инженерных задач, подготовка к работе с реальным оборудованием.

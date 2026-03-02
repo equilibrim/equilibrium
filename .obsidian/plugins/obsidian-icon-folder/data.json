@@ -1,0 +1,197 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAsteriskSquare",
+      "LiAlertOctagon",
+      "LiBackpack",
+      "LiAreaChart",
+      "LiApple"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Houdini-Learning": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#3503ab"
+  },
+  "Houdini-Learning/Practice": "LiAnvil",
+  "Houdini-Learning/Progress": "LiBackpack",
+  "Houdini-Learning/Resources": "LiAperture",
+  "Houdini-Learning/Theory": {
+    "iconName": "LiAlbum",
+    "iconColor": "#0300bd"
+  },
+  "Inbox": {
+    "iconName": "LiArchiveRestore",
+    "iconColor": "#0036d6"
+  },
+  "Archive": {
+    "iconName": "LiArchive",
+    "iconColor": "#ffffff"
+  },
+  "Projects/01-CNC-Laser": {
+    "iconName": "LiAtom",
+    "iconColor": "#004cff"
+  },
+  "Projects/04-AI-Assistant": "LiAsteriskSquare",
+  "Houdini-Learning/Progress/Alex-progress.md": "LiActivity",
+  "Houdini-Learning/Progress/Vlad-progress.md": "LiActivity",
+  "Houdini-Learning/Theory/01-Interface-Basics.md": {
+    "iconName": "LiApple",
+    "iconColor": "#11850b"
+  },
+  "Houdini-Learning/Theory/02-Nodes-and-Networks.md": {
+    "iconName": "LiApple",
+    "iconColor": "#aba203"
+  },
+  "Houdini-Learning/Theory/03-Geometry-Types.md": {
+    "iconName": "LiApple",
+    "iconColor": "#c8c104"
+  },
+  "Houdini-Learning/Theory/04-Particles-and-DOP.md": {
+    "iconName": "LiApple",
+    "iconColor": "#a6440b"
+  },
+  "Houdini-Learning/Theory/05-VEX-Fundamentals.md": {
+    "iconName": "LiApple",
+    "iconColor": "#a6440b"
+  },
+  "Houdini-Learning/Practice/01-Procedural-Box": {
+    "iconName": "LiApple",
+    "iconColor": "#11850b"
+  },
+  "Houdini-Learning/Practice/02-Scatter-and-Copy": {
+    "iconName": "LiApple",
+    "iconColor": "#aba203"
+  },
+  "Houdini-Learning/Practice/03-RBD-Fracture": {
+    "iconName": "LiApple",
+    "iconColor": "#a6440b"
+  },
+  "Houdini-Learning/Practice/07-3DPrint-Preview": {
+    "iconName": "LiApple",
+    "iconColor": "#9c0f1b"
+  },
+  "Houdini-Learning/Practice/06-CNC-Toolpath-Vis": {
+    "iconName": "LiApple",
+    "iconColor": "#9c0f1b"
+  },
+  "Houdini-Learning/Practice/04-Particles-Snow": {
+    "iconName": "LiApple",
+    "iconColor": "#a6440b"
+  },
+  "Houdini-Learning/Practice/05-VEX-Basics": {
+    "iconName": "LiApple",
+    "iconColor": "#a6440b"
+  },
+  "Projects/03-Data-Analytics": {
+    "iconName": "LiAreaChart",
+    "iconColor": "#ff0000"
+  },
+  "Houdini-Learning/Practice/08-Vellum-Cloth": {
+    "iconName": "LiApple",
+    "iconColor": "#952130"
+  },
+  "Houdini-Learning/Practice/09-Pyro-Fire": {
+    "iconName": "LiApple",
+    "iconColor": "#952130"
+  },
+  "Houdini-Learning/Practice/10-Procedural-Cities": {
+    "iconName": "LiApple",
+    "iconColor": "#aa893d"
+  },
+  "Houdini-Learning/Theory/08-Vellum-Fundamentals.md": {
+    "iconName": "LiApple",
+    "iconColor": "#952130"
+  },
+  "Houdini-Learning/Theory/09-Pyro-Fundamentals.md": {
+    "iconName": "LiApple",
+    "iconColor": "#952130"
+  },
+  "Houdini-Learning/Theory/10-Procedural-Modeling.md": {
+    "iconName": "LiApple",
+    "iconColor": "#aa893d"
+  },
+  "Houdini-Learning/Practice/01-Procedural-Box/Procedural-Box.md": {
+    "iconName": "LiApple",
+    "iconColor": "#11850b"
+  },
+  "Houdini-Learning/Practice/01-Procedural-Box/Notes-Procedural-Box.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/02-Scatter-and-Copy/Scatter-and-Copy.md": {
+    "iconName": "LiApple",
+    "iconColor": "#aba203"
+  },
+  "Houdini-Learning/Practice/02-Scatter-and-Copy/Notes-Scatter-and-Copy.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/03-RBD-Fracture/RBD-Fracture.md": {
+    "iconName": "LiApple",
+    "iconColor": "#a6440b"
+  },
+  "Houdini-Learning/Practice/03-RBD-Fracture/Notes-RBD-Fracture.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/04-Particles-Snow/Particles-Snow.md": {
+    "iconName": "LiApple",
+    "iconColor": "#a6440b"
+  },
+  "Houdini-Learning/Practice/04-Particles-Snow/Notes-Particles-Snow.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/05-VEX-Basics/VEX-Basics.md": {
+    "iconName": "LiApple",
+    "iconColor": "#a6440b"
+  },
+  "Houdini-Learning/Practice/05-VEX-Basics/Notes-VEX-Basics.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/06-CNC-Toolpath-Vis/CNC-Toolpath-Vis.md": {
+    "iconName": "LiApple",
+    "iconColor": "#9c0f1b"
+  },
+  "Houdini-Learning/Practice/06-CNC-Toolpath-Vis/Notes-CNC-Toolpath-Vis.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/07-3DPrint-Preview/3DPrint-Preview.md": {
+    "iconName": "LiApple",
+    "iconColor": "#9c0f1b"
+  },
+  "Houdini-Learning/Practice/07-3DPrint-Preview/Notes-3DPrint-Preview.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/08-Vellum-Cloth/08-Vellum-Cloth.md": {
+    "iconName": "LiApple",
+    "iconColor": "#9c0f1b"
+  },
+  "Houdini-Learning/Practice/08-Vellum-Cloth/Notes-08-Vellum-Cloth.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/09-Pyro-Fire/09-Pyro-Fire.md": {
+    "iconName": "LiApple",
+    "iconColor": "#9c0f1b"
+  },
+  "Houdini-Learning/Practice/09-Pyro-Fire/Notes-09-Pyro-Fire.md": "LiAsteriskSquare",
+  "Houdini-Learning/Practice/10-Procedural-Cities/Procedural-Cities.md": {
+    "iconName": "LiApple",
+    "iconColor": "#aba203"
+  },
+  "Houdini-Learning/Practice/10-Procedural-Cities/Notes-Procedural-Cities.md": "LiAsteriskSquare",
+  "Houdini-Learning/Theory/07-Procedural-Modeling-Basics.md": {
+    "iconName": "LiApple",
+    "iconColor": "#aa893d"
+  },
+  "Houdini-Learning/Theory/06-CNC-and-3DPrint-Integration.md": {
+    "iconName": "LiApple",
+    "iconColor": "#aa893d"
+  }
+}

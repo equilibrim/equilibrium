@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"547d427b514f30cb","type":"file","file":"Home.md","x":-1275,"y":-700,"width":550,"height":1180,"color":"6"},
+		{"id":"97954dd2eb827b88","type":"file","file":"README.md","x":-700,"y":-700,"width":720,"height":1180,"color":"5"},
+		{"id":"7ccc8c592c24487f","type":"file","file":"Tasks.md","x":-2020,"y":-700,"width":680,"height":1180}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"62b56d357c4581cd"
+	}
+}

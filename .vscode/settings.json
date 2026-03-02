@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://cdn.continue.dev/schemas/v1-config.json": ".continue/config.yaml"
+  }
+}

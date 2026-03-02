@@ -1,0 +1,81 @@
+---
+student: Alex
+updated: 2026-02-27
+---
+
+# 📈 Alex — Прогресс по Houdini
+
+
+
+```dataview
+TABLE WITHOUT ID
+  "Theory: " + length(filter(rows, (r) => r.theory = true)) + "/10" AS "Теория",
+  "Practice: " + length(filter(rows, (r) => r.practice = true)) + "/10" AS "Практика"
+FROM "Houdini-Learning/Progress"
+WHERE student = "Alex"
+```
+
+---
+
+## 📚 Теория
+
+| # | Модуль | Статус | Дата | Инсайты |
+|---|--------|--------|------|---------|
+| 01 | [[01-Interface-Basics\|Интерфейс Houdini]] | ⬜ | — | — |
+| 02 | [[02-Nodes-and-Networks\|Ноды и сети]] | ⬜ | — | — |
+| 03 | [[03-Geometry-Types\|Типы геометрии]] | ⬜ | — | — |
+| 04 | [[04-Particles-and-DOP\|Частицы и DOP]] | ⬜ | — | — |
+| 05 | [[05-VEX-Fundamentals\|Основы VEX]] | ⬜ | — | — |
+| 06 | Интеграция CNC/3D | ⬜ | — | — |
+| 07 | Процедурное моделирование | ⬜ | — | — |
+| 08 | [[08-Vellum-Fundamentals\|Vellum]] | ⬜ | — | — |
+| 09 | [[09-Pyro-Fundamentals\|Pyro]] | ⬜ | — | — |
+| 10 | [[10-Procedural-Modeling\|Procedural Modeling]] | ⬜ | — | — |
+
+> Статусы: ⬜ не начат · 🔄 в процессе · ✅ завершён
+
+---
+
+## 🛠️ Практика
+
+| # | Задание | Статус | Дата | Заметки |
+|---|---------|--------|------|---------|
+| 01 | [[Procedural-Box\|Процедурный бокс]] | ⬜ | — | — |
+| 02 | [[Scatter-and-Copy\|Scatter and Copy]] | ⬜ | — | — |
+| 03 | [[RBD-Fracture\|RBD Fracture]] | ⬜ | — | — |
+| 04 | [[Particles-Snow\|Частицы — Снег]] | ⬜ | — | — |
+| 05 | [[VEX-Basics\|VEX Basics]] | ⬜ | — | — |
+| 06 | [[CNC-Toolpath-Vis\|CNC Toolpath]] | ⬜ | — | — |
+| 07 | [[3DPrint-Preview\|3D Print Preview]] | ⬜ | — | — |
+| 08 | [[08-Vellum-Cloth\|Vellum Cloth]] | ⬜ | — | — |
+| 09 | [[09-Pyro-Fire\|Pyro Fire]] | ⬜ | — | — |
+| 10 | [[Procedural-Cities\|Procedural Cities]] | ⬜ | — | — |
+
+---
+
+## 💡 Личные инсайты
+
+> Сюда записывай всё что зацепило, открытия, неочевидные вещи — своими словами.
+
+### Модуль 01 — Интерфейс
+*пока пусто*
+
+### Модуль 02 — Ноды
+*пока пусто*
+
+### Модуль 03 — Геометрия
+*пока пусто*
+
+### Модуль 04 — Частицы
+*пока пусто*
+
+### Модуль 05 — VEX
+*пока пусто*
+
+---
+
+## 🏆 Итог
+
+- Теория: 0 / 10
+- Практика: 0 / 10
+- Общий прогресс: **0%**

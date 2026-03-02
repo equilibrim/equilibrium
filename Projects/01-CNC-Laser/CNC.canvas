@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7edf75633f27032d","type":"file","file":"Projects/01-CNC-Laser/01-CNC-Laser.md","x":-180,"y":-640,"width":400,"height":400,"color":"1"},
+		{"id":"e7fdd70938be6e32","type":"file","file":"Projects/01-CNC-Laser/Docs/CNC self hands.md","x":-1820,"y":-640,"width":1580,"height":1220,"color":"5"}
+	],
+	"edges":[
+		{"id":"2990c7cd7187dc7a","fromNode":"7edf75633f27032d","fromSide":"left","toNode":"e7fdd70938be6e32","toSide":"right"}
+	]
+}

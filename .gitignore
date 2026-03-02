@@ -1,0 +1,40 @@
+﻿# === Секреты и ключи (КРИТИЧЕСКИ ВАЖНО) ===
+.env
+.env.*
+!.env.example # Разрешаем пушить пример конфига, если нужен
+
+# === Конфиги ИИ-агентов (содержат API ключи) ===
+.continue/
+
+# === Obsidian: синхронизируем настройки, но не локальные данные ===
+# Игнорируем workspace (индивидуальный layout)
+.obsidian/workspace/*
+.obsidian/workspace.json
+
+# Игнорируем кэш и временные файлы
+.obsidian/cache/
+.obsidian/backlink.json
+.obsidian/graph.json
+.obsidian/hotkeys.json  # если хоткейи разные
+
+# НО разрешаем всё остальное в .obsidian/ — включая плагины!
+!.obsidian/
+!.obsidian/*.json
+!.obsidian/plugins/
+!.obsidian/plugins/*/
+!.obsidian/plugins/*/*.json
+
+# === Binary files ===
+*.ipt
+*.f3d
+*.max
+*.zbr
+*.stl
+*.obj
+*.xlsx
+*.pdf
+*.zip
+
+# === Системные файлы ОС (на всякий случай) ===
+.DS_Store
+Thumbs.db

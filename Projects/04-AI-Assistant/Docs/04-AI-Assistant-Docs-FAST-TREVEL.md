@@ -1,0 +1,5 @@
+[[6 local AI]]
+[[AI-variant]]
+[[How to start AI]]
+[[Local-assistant]]
+[[Self local AI]]

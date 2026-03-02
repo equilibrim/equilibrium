@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "9347a77c70376a7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e3970c170c3dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541a907592689155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a6e04c5e9754142",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1fc9d6ad039f663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18373721d63cd4be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "798e510dfa9d75fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cfdeb9009165a3a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "1431750cadd6d0a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3c19f5038b54610",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1675a09e9ab8748",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "998304771325301b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "b4a9a80b73802031",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "938a9081f926b41e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "803db41a091f2863",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dee4c0c5334116bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d7e07c7fc671ede1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "ee00a3998302207b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "541a907592689155",
+  "lastOpenFiles": [
+    "Houdini-Learning/Theory/05-VEX-Fundamentals.md",
+    "Houdini-Learning/Theory/06-CNC-and-3DPrint-Integration.md",
+    "Houdini-Learning/Theory/07-Procedural-Modeling-Basics.md",
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "README.md",
+    "Tasks.md",
+    "Shared/Templates/project-template.md",
+    "Shared/Templates/idea-template.md",
+    "Docs/Pathregist.md",
+    "WTF.canvas",
+    "Docs/Tasks/Current-Tasks.md",
+    "Docs/Tasks/Backlog.md",
+    "Docs/Tasks/Idea.md",
+    "Houdini-Learning/Progress/Alex-progress.md",
+    "Projects/04-AI-Assistant/04-AI-Assistant.md",
+    "Projects/04-AI-Assistant/AI.canvas",
+    "Houdini-Learning/Roadmap.canvas",
+    "Roadmap.md",
+    "Houdini-Learning/Integration-Hub.md",
+    "Houdini-Learning.md",
+    "Docs/Integration-Ideas.md",
+    "Docs/System-Evolution.md",
+    "DATABASE.base",
+    "Houdini-Learning/Resources/Glossary-RU.md",
+    "Houdini-Learning/Resources/Free-Courses.md",
+    "Houdini-Learning/Theory/01-Interface-Basics.md",
+    "Docs/Houdini-Reference/01-Basics/interface-and-basics.md",
+    "Docs/Houdini-Reference/structure houdini-referene.txt",
+    "Docs/Houdini-Reference/01-Basics/structure.txt",
+    "Docs/Houdini-Reference/structure.txt",
+    "Inbox/structure.txt",
+    "Docs/Houdini-Reference/01-Basics/videos/display_mode.mp4",
+    "Docs/Houdini-Reference/01-Basics/videos/light_tool.mp4",
+    "Docs/Houdini-Reference/01-Basics/videos/basics_handles_movealongcp.mp4",
+    "Docs/Houdini-Reference/01-Basics/images/ui/flood2.jpg",
+    "Docs/Houdini-Reference/01-Basics/images/ui/faceloop2.jpg",
+    "Docs/Houdini-Reference/01-Basics/images/ui/faceloop1.jpg",
+    "Docs/Houdini-Reference/01-Basics/videos/tumbling.mp4",
+    "Docs/Houdini-Reference/01-Basics/videos/selection_pattern.mp4",
+    "videos/view.mp4.md",
+    "Docs/Houdini-Reference/01-Basics/images/ui/desktop_radial_menus.jpg",
+    "Docs/Houdini-Reference/01-Basics/images/ui/pattern.jpg",
+    "Docs/Houdini-Reference/01-Basics/images/ui/pattern2.jpg",
+    "Docs/Houdini-Reference/01-Basics/images/ui/flood1.jpg",
+    "Docs/Houdini-Reference/01-Basics/images/ui/select_mode_anno.jpg",
+    "Docs/Houdini-Reference/01-Basics/images/ui/cook_controls.png",
+    "Docs/Houdini-Reference/01-Basics/images/ui/viewports_space_t2.png",
+    "Houdini-Learning/test.canvas",
+    "Projects/01-CNC-Laser/CNC.canvas",
+    "AI.canvas",
+    "CNC.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}

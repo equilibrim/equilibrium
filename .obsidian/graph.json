@@ -1,0 +1,77 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "Alex",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "Vlad",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "AI",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "CNC",
+      "color": {
+        "a": 1,
+        "rgb": 4607
+      }
+    },
+    {
+      "query": "Data",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Houdini",
+      "color": {
+        "a": 1,
+        "rgb": 4980991
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.12083333333333,
+  "lineSizeMultiplier": 0.686979166666667,
+  "collapse-forces": true,
+<<<<<<< HEAD
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.4019828977761002,
+=======
+  "centerStrength": 0.046875,
+  "repelStrength": 8.125,
+  "linkStrength": 0.307291666666667,
+  "linkDistance": 500,
+<<<<<<< HEAD
+  "scale": 0.2588386562181618,
+>>>>>>> origin/main
+=======
+  "scale": 0.13168724279835348,
+>>>>>>> origin/main
+  "close": false
+}
