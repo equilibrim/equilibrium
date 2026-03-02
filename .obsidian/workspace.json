@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/01-CNC-Laser/01-CNC-Laser.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-CNC-Laser"
+              "title": "Home"
             }
           }
         ],
@@ -237,6 +237,7 @@
   },
   "active": "f8624c80777a8b48",
   "lastOpenFiles": [
+    "Projects/01-CNC-Laser/01-CNC-Laser.md",
     "Home.md",
     "Projects/04-AI-Assistant/Docs/Continue-Setup.md",
     "conflict-files-obsidian-git.md",
@@ -283,7 +284,6 @@
     "Houdini-Learning/Roadmap.canvas",
     "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
     "Tasks.md",
-    "Docs/Tasks/Idea.md",
     "Inbox/structure.txt",
     "Projects/04-AI-Assistant/AI.canvas",
     "Projects/01-CNC-Laser/CNC.canvas",
