@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Home"
             }
           }
         ],
@@ -237,6 +237,7 @@
   },
   "active": "f8624c80777a8b48",
   "lastOpenFiles": [
+    "README.md",
     "Home.md",
     "Projects/01-CNC-Laser/01-CNC-Laser.md",
     "Projects/04-AI-Assistant/Docs/Continue-Setup.md",
@@ -262,7 +263,6 @@
     "Projects/01-CNC-Laser/Photos/TFT_LCD_3.5_Shield_ILI9488.jpg",
     "Projects/01-CNC-Laser/Photos/Arduino_Uno_R3_Clone.jpg",
     "Projects/01-CNC-Laser/Photos/Arduino_Mega_2560.jpg",
-    "README.md",
     "Projects/01-CNC-Laser/Docs/rename_photos.py",
     "Projects/01-CNC-Laser/Photos/photo_7_2026-02-28_12-11-27.jpg",
     "Projects/01-CNC-Laser/Photos/info.txt",
