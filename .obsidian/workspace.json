@@ -4,28 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "6662e8c2c0ea4d2b",
+        "id": "10fce83feb66bc6c",
         "type": "tabs",
         "children": [
           {
-            "id": "5c1619674fca89c9",
+            "id": "14b0a1296f1e8d96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           },
           {
-            "id": "a2e810d7c5c1842a",
+            "id": "7c322cc770d2f560",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
               },
-<<<<<<< HEAD
               "icon": "lucide-file",
               "title": "Home"
             }
@@ -42,14 +47,10 @@
               },
               "icon": "lucide-file",
               "title": "Home"
-=======
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
->>>>>>> origin/main
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +194,7 @@
             }
           },
           {
-            "id": "ebc47f74c4c1cacc",
+            "id": "58bc8879a7d7dd21",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -203,7 +204,7 @@
             }
           },
           {
-            "id": "3f8befa01802db4f",
+            "id": "31be76fd6ec4189c",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -228,75 +229,67 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
+      "obsidian-kanban:Create new board": false,
       "juggl:Juggl global graph": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a2e810d7c5c1842a",
+  "active": "f8624c80777a8b48",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "README.md",
-=======
-    "WTF.canvas",
->>>>>>> origin/main
-    "Home.md",
     "conflict-files-obsidian-git.md",
-    "Projects/03-Data-Analytics/Scripts/e-mail parser v1.2.md",
-    "videos/view.mp4.md",
-    "videos",
-    "Tasks.md",
-    "Shared/Templates/project-template.md",
-    "Shared/Templates/idea-template.md",
-    "Projects/04-AI-Assistant/Docs/top-6-local-models.md",
-    "Projects/04-AI-Assistant/Docs/local-ai-guide.md",
-    "Projects/04-AI-Assistant/Docs/how-to-start-ai.md",
+    "Home.md",
+    "README.md",
+    "Projects/01-CNC-Laser/01-CNC-Laser.md",
     "Projects/04-AI-Assistant/Docs/Continue-Setup.md",
-    "Projects/04-AI-Assistant/Docs/04-AI-Assistant-Docs-FAST-TREVEL.md",
-    "Projects/04-AI-Assistant/AI.canvas",
-    "Projects/03-Data-Analytics/Scripts/svod/Список организаций.txt",
-    "Projects/03-Data-Analytics/Scripts/svod/Организации.md",
-    "Projects/03-Data-Analytics/Scripts/svod/e-mail-sorter-v4.2.py",
-    "Projects/03-Data-Analytics/Scripts/svod/e-mail-parser-v1.3.py",
+    "Projects/04-AI-Assistant/Docs/Self local AI.md",
+    "Projects/04-AI-Assistant/Docs/How to start AI.md",
+    "Projects/04-AI-Assistant/Docs/6 local AI.md",
     "Projects/03-Data-Analytics/Scripts/svod/e-mail sorter v4.2.py",
     "Projects/03-Data-Analytics/Scripts/svod/e-mail parser v1.3.py",
-    "Projects/03-Data-Analytics/Scripts/svod/TXT/organization.md",
-    "Projects/03-Data-Analytics/Scripts/svod/TXT/key.md",
-    "Projects/03-Data-Analytics/Scripts/svod/TXT",
-    "Projects/03-Data-Analytics/Scripts/e-mail-sorter-v4.1.md",
-    "Projects/03-Data-Analytics/Scripts/e-mail-parser-v1.2.md",
-    "Projects/01-CNC-Laser/Photos/TFT_LCD_3.5_Shield_ILI9488.jpg",
-    "Projects/01-CNC-Laser/Photos/RAMPS_1.4_Shield.jpg",
-    "Projects/01-CNC-Laser/Photos/ower_Supply_24V_20A_S-480-24.jpg",
-    "Projects/01-CNC-Laser/Photos/Nema17_17HS4402_Extruder.jpg",
-    "Projects/01-CNC-Laser/Photos/info.txt",
+    "Projects/03-Data-Analytics/Scripts/e-mail sorter v4.1.md",
+    "Projects/03-Data-Analytics/Scripts/e-mail parser v1.2.md",
+    "Projects/01-CNC-Laser/Docs/CNC self hands.md",
+    "Inbox/промт.txt",
+    "Houdini-Learning/Theory/07-Procedural-Modeling-Basics.md",
+    "Houdini-Learning/Theory/06-CNC-and-3DPrint-Integration.md",
+    "Houdini-Learning/Progress/Vlad-progress.md",
     "Projects/01-CNC-Laser/Photos/Dupont_Jumper_Wires_Ribbon.jpg",
+    "Projects/01-CNC-Laser/Photos/Nema17_17HS4402_Extruder.jpg",
+    "Projects/01-CNC-Laser/Photos/ower_Supply_24V_20A_S-480-24.jpg",
+    "Projects/01-CNC-Laser/Photos/A4988_Stepper_Driver.jpg",
     "Projects/01-CNC-Laser/Photos/BigTreeTech_RAMPS_1.6_Plus.jpg",
+    "Projects/01-CNC-Laser/Photos/RAMPS_1.4_Shield.jpg",
+    "Projects/01-CNC-Laser/Photos/TFT_LCD_3.5_Shield_ILI9488.jpg",
     "Projects/01-CNC-Laser/Photos/Arduino_Uno_R3_Clone.jpg",
     "Projects/01-CNC-Laser/Photos/Arduino_Mega_2560.jpg",
-<<<<<<< HEAD
     "Projects/01-CNC-Laser/Docs/rename_photos.py",
     "Projects/01-CNC-Laser/Photos/photo_7_2026-02-28_12-11-27.jpg",
     "Projects/01-CNC-Laser/Photos/info.txt",
-=======
-    "Projects/01-CNC-Laser/Photos/A4988_Stepper_Driver.jpg",
->>>>>>> origin/main
     "Projects/01-CNC-Laser/Photos",
-    "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
+    "Projects/01-CNC-Laser/Новая папка",
+    "Projects/01-CNC-Laser/Docs/info.txt",
+    "Docs/README.md",
     "Projects/01-CNC-Laser/Docs/README.md",
     "Projects/01-CNC-Laser/Docs/Inventory.md",
-    "Projects/01-CNC-Laser/CNC.canvas",
-    "Inbox/промт.txt",
-    "Houdini-Learning/Practice/10-Procedural-Cities/Procedural-Cities.md",
-    "Houdini-Learning/Practice/10-Procedural-Cities/Notes-Procedural-Cities.md",
-    "Houdini-Learning/Practice/09-Pyro-Fire/Notes-09-Pyro-Fire.md",
-    "Houdini-Learning/Practice/09-Pyro-Fire/09-Pyro-Fire.md",
-    "Houdini-Learning/Practice/08-Vellum-Cloth/Notes-08-Vellum-Cloth.md",
+    "WTF.canvas",
+    "DATABASE.base",
+    "Docs/SESSION_CONTEXT.md",
+    "Projects/04-AI-Assistant/04-AI-Assistant.md",
+    "Projects/04-AI-Assistant/Docs/AI-variant.md",
+    "Projects/04-AI-Assistant/Docs/top-6-local-models.md",
+    "Projects/04-AI-Assistant/Docs/how-to-start-ai.md",
+    "Projects/04-AI-Assistant/Docs/local-ai-guide.md",
+    "Projects/04-AI-Assistant/Docs/04-AI-Assistant-Docs-FAST-TREVEL.md",
     "Houdini-Learning/Roadmap.canvas",
-    "Docs/Houdini-Reference/01-Basics/images/ui/view_pivot.jpg",
+    "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
+    "Tasks.md",
+    "Inbox/structure.txt",
+    "Projects/04-AI-Assistant/AI.canvas",
+    "Projects/01-CNC-Laser/CNC.canvas",
     "CNC.canvas",
     "AI.canvas",
+    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
