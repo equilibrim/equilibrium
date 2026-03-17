@@ -11,10 +11,14 @@
             "id": "7376adf4492cd42e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Home"
             }
           }
         ]
@@ -212,7 +216,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "18373721d63cd4be",
+  "active": "7376adf4492cd42e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Shared/Templates/project-template.md",
