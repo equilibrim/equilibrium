@@ -1,13 +1,23 @@
 {
 	"nodes":[
 		{"id":"404a9711a05a9da2","type":"file","file":"Projects/04-AI-Assistant/Docs/AI-variant.md","x":-340,"y":-580,"width":400,"height":200,"color":"#000000"},
+<<<<<<< HEAD
+		{"id":"27694d799d714fdc","type":"file","file":"Projects/04-AI-Assistant/Docs/how-to-start-ai.md","x":-1520,"y":-580,"width":1080,"height":1280,"color":"3"},
+		{"id":"f63e84136300a4ae","type":"file","file":"Projects/04-AI-Assistant/Docs/top-6-local-models.md","x":160,"y":-580,"width":560,"height":1280,"color":"2"},
+		{"id":"a86b8e5cc6ac89e4","type":"file","file":"Projects/04-AI-Assistant/Docs/local-ai-guide.md","x":-340,"y":-350,"width":400,"height":1050,"color":"1"}
+=======
 		{"id":"27694d799d714fdc","type":"file","file":"Projects/04-AI-Assistant/Docs/How to start AI.md","x":-1520,"y":-580,"width":1080,"height":1280,"color":"3"},
 		{"id":"f63e84136300a4ae","type":"file","file":"Projects/04-AI-Assistant/Docs/6 local AI.md","x":160,"y":-580,"width":560,"height":1280,"color":"2"},
 		{"id":"a86b8e5cc6ac89e4","type":"file","file":"Projects/04-AI-Assistant/Docs/Self local AI.md","x":-340,"y":-350,"width":400,"height":1050,"color":"1"}
+>>>>>>> 53265070ff5d362fb38377424e7448472008f56d
 	],
 	"edges":[
 		{"id":"06285138715057de","fromNode":"404a9711a05a9da2","fromSide":"right","toNode":"f63e84136300a4ae","toSide":"left","toEnd":"none"},
 		{"id":"4d7893d5da8c66dd","fromNode":"404a9711a05a9da2","fromSide":"left","toNode":"27694d799d714fdc","toSide":"right","toEnd":"none"},
 		{"id":"01c559028e90a03d","fromNode":"404a9711a05a9da2","fromSide":"bottom","toNode":"a86b8e5cc6ac89e4","toSide":"top","toEnd":"none"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

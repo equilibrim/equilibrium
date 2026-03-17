@@ -4,20 +4,51 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "c0c30b275ea275e9",
         "type": "tabs",
         "children": [
           {
             "id": "e9d0feb5cd3cd75f",
+=======
+        "id": "c5e3970c170c3dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541a907592689155",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
+<<<<<<< HEAD
               "icon": "lucide-file",
               "title": "Новая вкладка"
+=======
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "34f9327cf898a648",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "English-Learning/English_Study_Plan.canvas",
+                "viewState": {
+                  "x": 708.6629283401203,
+                  "y": -98.34647107087454,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "English_Study_Plan"
+>>>>>>> origin/main
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "1431750cadd6d0a0",
@@ -206,12 +237,16 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
+<<<<<<< HEAD
       "obsidian-kanban:Создать новую доску": false,
+=======
+>>>>>>> origin/main
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "juggl:Juggl global graph": false
     }
   },
+<<<<<<< HEAD
   "active": "18373721d63cd4be",
   "lastOpenFiles": [
     "Без названия.canvas",
@@ -265,7 +300,62 @@
     "Houdini-Learning/Theory/09-Pyro-Fundamentals.md",
     "Houdini-Learning/Theory/08-Vellum-Fundamentals.md",
     "Projects/04-AI-Assistant/AI.canvas",
+=======
+  "active": "34f9327cf898a648",
+  "lastOpenFiles": [
+    "English-Learning/Materials/1-Syntax-basic-verbs/Урок 1.1 Зачем нужны названия частей речи и как они работают в жизни..pdf",
+    "English-Learning/Materials/1-Syntax-basic-verbs/Урок 1 Построение простых предложений (I work, We see).pdf",
+    "English-Learning/English_Study_Plan.canvas",
+    "English-Learning/Materials/1-Syntax-basic-verbs",
+    "English-Learning/Books",
+    "English-Learning/Books/Джовин_Эллен_Реальный_английский_TEXT_UP_2024_a4.pdf",
+    "English-Learning/Books/Английский с нуля.pdf",
+    "English-Learning/Materials",
+    "Home.md",
+    "English_Study_Plan.canvas",
+    "English-Learning",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Projects/01-CNC-Laser/Photos/power_Supply_24V_20A_S-480-24.jpg",
+    "Projects/01-CNC-Laser/Docs/GRBL-Overview.md",
+    "Projects/01-CNC-Laser/Docs/Firmware-Setup-GRBL.md",
+    "Projects/01-CNC-Laser/Docs/Inventory.md",
+    "Projects/01-CNC-Laser/01-CNC-Laser.md",
+    "Docs/SESSION_CONTEXT.md",
+    "Docs/Pathregist.md",
+    "Projects/04-AI-Assistant/Docs/top-6-local-models.md",
+    "Projects/04-AI-Assistant/Docs/local-ai-guide.md",
+    "Projects/04-AI-Assistant/Docs/how-to-start-ai.md",
+    "Projects/04-AI-Assistant/Docs/Continue-Setup.md",
+    "Projects/03-Data-Analytics/Scripts/svod/e-mail-sorter-v4.2.py",
+    "Projects/03-Data-Analytics/Scripts/svod/e-mail-parser-v1.3.py",
+    "Projects/03-Data-Analytics/Scripts/e-mail-sorter-v4.1.md",
+    "Projects/03-Data-Analytics/Scripts/e-mail-parser-v1.2.md",
+    "Projects/01-CNC-Laser/Photos/TFT_LCD_3.5_Shield_ILI9488.jpg",
+    "Projects/01-CNC-Laser/Photos/RAMPS_1.4_Shield.jpg",
+    "Projects/01-CNC-Laser/Photos/ower_Supply_24V_20A_S-480-24.jpg",
+    "Projects/01-CNC-Laser/Photos/Nema17_17HS4402_Extruder.jpg",
+    "Projects/01-CNC-Laser/Photos/Dupont_Jumper_Wires_Ribbon.jpg",
+    "Projects/01-CNC-Laser/Photos/BigTreeTech_RAMPS_1.6_Plus.jpg",
+    "Projects/01-CNC-Laser/Photos/Arduino_Uno_R3_Clone.jpg",
+    "Projects/01-CNC-Laser/Photos/Arduino_Mega_2560.jpg",
+    "Projects/01-CNC-Laser/Photos/A4988_Stepper_Driver.jpg",
+    "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
+    "Projects/01-CNC-Laser/Docs/README.md",
+    "Houdini-Learning/Progress/vlad-progress.md",
+    "Shared/Templates/idea-template.md",
+    "Shared/Templates/project-template.md",
+    "Projects/04-AI-Assistant/04-AI-Assistant.md",
+    "Projects/01-CNC-Laser/Docs/CNC self hands.md",
+>>>>>>> origin/main
     "Projects/01-CNC-Laser/CNC.canvas",
+    "Houdini-Learning/Roadmap.canvas",
+    "Houdini-Learning/Integration-Hub.md",
+    "Houdini-Learning/Theory/10-Procedural-Modeling.md",
+    "Houdini-Learning/Theory/09-Pyro-Fundamentals.md",
+    "WTF.canvas",
+    "Projects/04-AI-Assistant/AI.canvas",
+    "Houdini-Learning/test.canvas",
     "AI.canvas",
     "CNC.canvas",
     "Untitled.canvas"

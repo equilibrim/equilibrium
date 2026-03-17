@@ -230,7 +230,11 @@
 		{
 			"id":"alex",
 			"type":"file",
+<<<<<<< HEAD
+			"file":"Houdini-Learning/Progress/alex-progress.md",
+=======
 			"file":"Houdini-Learning/Progress/Alex-progress.md",
+>>>>>>> 53265070ff5d362fb38377424e7448472008f56d
 			"styleAttributes":{"border":"dashed"},
 			"x":2640,
 			"y":55,

@@ -59,7 +59,6 @@
   },
   "Projects/04-AI-Assistant": "LiAsteriskSquare",
   "Houdini-Learning/Progress/Alex-progress.md": "LiActivity",
-  "Houdini-Learning/Progress/Vlad-progress.md": "LiActivity",
   "Houdini-Learning/Theory/01-Interface-Basics.md": {
     "iconName": "LiApple",
     "iconColor": "#11850b"
@@ -185,5 +184,13 @@
     "iconName": "LiApple",
     "iconColor": "#aba203"
   },
-  "Houdini-Learning/Practice/10-Procedural-Cities/Notes-Procedural-Cities.md": "LiAsteriskSquare"
+  "Houdini-Learning/Practice/10-Procedural-Cities/Notes-Procedural-Cities.md": "LiAsteriskSquare",
+  "Houdini-Learning/Theory/07-Procedural-Modeling-Basics.md": {
+    "iconName": "LiApple",
+    "iconColor": "#aa893d"
+  },
+  "Houdini-Learning/Theory/06-CNC-and-3DPrint-Integration.md": {
+    "iconName": "LiApple",
+    "iconColor": "#aa893d"
+  }
 }
