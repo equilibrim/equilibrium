@@ -21,20 +21,18 @@
             "id": "34f9327cf898a648",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "English-Learning/English_Study_Plan.canvas",
-                "viewState": {
-                  "x": 708.6629283401203,
-                  "y": -98.34647107087454,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "English_Study_Plan"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,9 +227,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "541a907592689155",
+  "active": "34f9327cf898a648",
   "lastOpenFiles": [
     "English-Learning/English_Study_Plan.canvas",
+    "conflict-files-obsidian-git.md",
     "English-Learning/Materials/1-Syntax-basic-verbs/Урок 1.1 Зачем нужны названия частей речи и как они работают в жизни..pdf",
     "English-Learning/Materials/1-Syntax-basic-verbs/Урок 1 Построение простых предложений (I work, We see).pdf",
     "English-Learning/Materials/1-Syntax-basic-verbs",
@@ -243,7 +242,6 @@
     "English_Study_Plan.canvas",
     "English-Learning",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "Projects/01-CNC-Laser/Photos/power_Supply_24V_20A_S-480-24.jpg",
     "Projects/01-CNC-Laser/Docs/GRBL-Overview.md",
     "Projects/01-CNC-Laser/Docs/Firmware-Setup-GRBL.md",
