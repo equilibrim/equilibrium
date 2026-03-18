@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/00-Office/Office.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Office"
             }
           }
         ]
@@ -218,9 +218,9 @@
   },
   "active": "4bae3d3cb90dfd7d",
   "lastOpenFiles": [
+    "Home.md",
     "README.md",
     "Tasks.md",
-    "Home.md",
     "Projects/01-CNC-Laser/01-CNC-Laser.md",
     "Projects/04-AI-Assistant/Docs/AI-variant.md",
     "Projects/03-Data-Analytics/03-Data-Analytics.md",
