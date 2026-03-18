@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc3f4c2d782ec12",
+        "id": "24e79e546a0aef17",
         "type": "tabs",
         "children": [
           {
-            "id": "7376adf4492cd42e",
+            "id": "4bae3d3cb90dfd7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -216,8 +212,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7376adf4492cd42e",
+  "active": "4bae3d3cb90dfd7d",
   "lastOpenFiles": [
+    "Tasks.md",
     "Home.md",
     "Projects/01-CNC-Laser/01-CNC-Laser.md",
     "Projects/04-AI-Assistant/Docs/AI-variant.md",
@@ -227,7 +224,6 @@
     "Houdini-Learning/Progress/vlad-progress.md",
     "project.md",
     "conflict-files-obsidian-git.md",
-    "Tasks.md",
     "_AFK_ZONE.md",
     "English-Learning/English_Study_Plan.canvas",
     "WTF.canvas",
