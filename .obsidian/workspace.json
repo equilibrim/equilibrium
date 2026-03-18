@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/00-Office/Office.md",
+                "file": "Projects/03-Data-Analytics/03-Data-Analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Office"
+              "title": "03-Data-Analytics"
             }
           }
         ]
@@ -218,11 +218,11 @@
   },
   "active": "7376adf4492cd42e",
   "lastOpenFiles": [
+    "Home.md",
     "Projects/00-Office/Office.md",
     "Projects/00-Office",
     "Houdini-Learning/Progress/vlad-progress.md",
     "project.md",
-    "Home.md",
     "conflict-files-obsidian-git.md",
     "Tasks.md",
     "_AFK_ZONE.md",
