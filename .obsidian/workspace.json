@@ -11,17 +11,14 @@
             "id": "7376adf4492cd42e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "English-Learning/English_Study_Plan.canvas",
-                "viewState": {
-                  "x": 320,
-                  "y": 310,
-                  "zoom": -0.6857429184655665
-                }
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "English_Study_Plan"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -221,11 +218,13 @@
   },
   "active": "7376adf4492cd42e",
   "lastOpenFiles": [
-    "WTF.canvas",
+    "Tasks.md",
+    "_AFK_ZONE.md",
     "Home.md",
+    "English-Learning/English_Study_Plan.canvas",
+    "WTF.canvas",
     "Docs/SESSION_CONTEXT.md",
     "Untitled.md",
-    "Tasks.md",
     "conflict-files-obsidian-git.md",
     "Shared/Templates/project-template.md",
     "Shared/Templates/idea-template.md",
@@ -257,7 +256,6 @@
     "Inbox/structure.txt",
     "Houdini-Learning/Theory/07-Procedural-Modeling-Basics.md",
     "Houdini-Learning/Theory/06-CNC-and-3DPrint-Integration.md",
-    "English-Learning/English_Study_Plan.canvas",
     "English-Learning",
     "Docs/Pathregist.md",
     "Без названия.canvas",
