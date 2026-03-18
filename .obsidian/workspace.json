@@ -11,10 +11,14 @@
             "id": "4bae3d3cb90dfd7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Home"
             }
           }
         ]
@@ -214,6 +218,7 @@
   },
   "active": "4bae3d3cb90dfd7d",
   "lastOpenFiles": [
+    "README.md",
     "Tasks.md",
     "Home.md",
     "Projects/01-CNC-Laser/01-CNC-Laser.md",
@@ -257,7 +262,6 @@
     "Inbox/system-prompt.txt",
     "Inbox/structure.txt",
     "Houdini-Learning/Theory/07-Procedural-Modeling-Basics.md",
-    "Houdini-Learning/Theory/06-CNC-and-3DPrint-Integration.md",
     "English-Learning",
     "Без названия.canvas",
     "Без названия 1.canvas",
