@@ -4,11 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc3f4c2d782ec12",
+        "id": "10fce83feb66bc6c",
         "type": "tabs",
         "children": [
           {
-            "id": "7376adf4492cd42e",
+            "id": "14b0a1296f1e8d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+<<<<<<< HEAD
+                "mode": "preview",
+=======
+                "mode": "source",
+>>>>>>> origin/main
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+<<<<<<< HEAD
+=======
+            }
+          },
+          {
+            "id": "7c322cc770d2f560",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,9 +39,11 @@
               },
               "icon": "lucide-file",
               "title": "Home"
+>>>>>>> origin/main
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +149,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -155,26 +177,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
-            "id": "dee4c0c5334116bf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "d7e07c7fc671ede1",
+            "id": "58bc8879a7d7dd21",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -184,7 +197,7 @@
             }
           },
           {
-            "id": "ee00a3998302207b",
+            "id": "31be76fd6ec4189c",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -193,12 +206,11 @@
               "title": "Juggl style"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,14 +222,15 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-kanban:Создать новую доску": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "juggl:Juggl global graph": false,
       "obsidian-git:Open Git source control": false,
-      "juggl:Juggl global graph": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7376adf4492cd42e",
+  "active": "7c322cc770d2f560",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Tasks.md",
     "_AFK_ZONE.md",
     "Home.md",
@@ -249,13 +262,41 @@
     "Projects/01-CNC-Laser/Photos",
     "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
     "Projects/01-CNC-Laser/Docs/README.md",
+=======
+    "Houdini-Learning/Roadmap.canvas",
+    "Houdini-Learning/Integration-Hub.md",
+    "English-Learning/English_Study_Plan.canvas",
+    "Home.md",
+>>>>>>> origin/main
     "Projects/01-CNC-Laser/Docs/Inventory.md",
+    "English-Learning",
+    "Projects/01-CNC-Laser/Photos/A4988_Stepper_Driver.jpg",
+    "Houdini-Learning/Theory/03-Geometry-Types.md",
+    "Houdini-Learning/Theory/02-Nodes-and-Networks.md",
+    "Houdini-Learning/Theory/01-Interface-Basics.md",
+    "_AFK_ZONE.md",
+    "DATABASE.base",
+    "README.md",
+    "Tasks.md",
+    "WTF.canvas",
     "Projects/01-CNC-Laser/Docs/GRBL-Overview.md",
     "Projects/01-CNC-Laser/Docs/Firmware-Setup-GRBL.md",
-    "Inbox/system-prompt.txt",
-    "Inbox/structure.txt",
+    "Projects/01-CNC-Laser/Photos/power_Supply_24V_20A_S-480-24.jpg",
+    "conflict-files-obsidian-git.md",
+    "Projects/01-CNC-Laser/01-CNC-Laser.md",
+    "Projects/04-AI-Assistant/Docs/Continue-Setup.md",
+    "Projects/04-AI-Assistant/Docs/Self local AI.md",
+    "Projects/04-AI-Assistant/Docs/How to start AI.md",
+    "Projects/04-AI-Assistant/Docs/6 local AI.md",
+    "Projects/03-Data-Analytics/Scripts/svod/e-mail sorter v4.2.py",
+    "Projects/03-Data-Analytics/Scripts/svod/e-mail parser v1.3.py",
+    "Projects/03-Data-Analytics/Scripts/e-mail sorter v4.1.md",
+    "Projects/03-Data-Analytics/Scripts/e-mail parser v1.2.md",
+    "Projects/01-CNC-Laser/Docs/CNC self hands.md",
+    "Inbox/промт.txt",
     "Houdini-Learning/Theory/07-Procedural-Modeling-Basics.md",
     "Houdini-Learning/Theory/06-CNC-and-3DPrint-Integration.md",
+<<<<<<< HEAD
     "English-Learning",
     "Docs/Pathregist.md",
     "Без названия.canvas",
@@ -270,9 +311,30 @@
     "videos",
     "Docs/Houdini-Reference/01-Basics/images/ui/viewports_space_t2.png",
     "Houdini-Learning/test.canvas",
+=======
+    "Houdini-Learning/Progress/Vlad-progress.md",
+    "Projects/01-CNC-Laser/Photos/Dupont_Jumper_Wires_Ribbon.jpg",
+    "Projects/01-CNC-Laser/Photos/Nema17_17HS4402_Extruder.jpg",
+    "Projects/01-CNC-Laser/Photos/ower_Supply_24V_20A_S-480-24.jpg",
+    "Projects/01-CNC-Laser/Photos/BigTreeTech_RAMPS_1.6_Plus.jpg",
+    "Projects/01-CNC-Laser/Photos/RAMPS_1.4_Shield.jpg",
+    "Projects/01-CNC-Laser/Photos/TFT_LCD_3.5_Shield_ILI9488.jpg",
+    "Projects/01-CNC-Laser/Photos/Arduino_Uno_R3_Clone.jpg",
+    "Projects/01-CNC-Laser/Photos/Arduino_Mega_2560.jpg",
+    "Projects/01-CNC-Laser/Docs/rename_photos.py",
+    "Projects/01-CNC-Laser/Photos/info.txt",
+    "Projects/01-CNC-Laser/Photos",
+    "Projects/01-CNC-Laser/Новая папка",
+    "Projects/01-CNC-Laser/Docs/info.txt",
+    "Docs/README.md",
+    "Projects/01-CNC-Laser/Docs/README.md",
+>>>>>>> origin/main
     "Projects/04-AI-Assistant/AI.canvas",
     "Projects/01-CNC-Laser/CNC.canvas",
+    "CNC.canvas",
     "AI.canvas",
-    "CNC.canvas"
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
   ]
 }
