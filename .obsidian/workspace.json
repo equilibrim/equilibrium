@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/03-Data-Analytics/03-Data-Analytics.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Data-Analytics"
+              "title": "Home"
             }
           }
         ]
@@ -218,7 +218,10 @@
   },
   "active": "7376adf4492cd42e",
   "lastOpenFiles": [
+    "Projects/01-CNC-Laser/01-CNC-Laser.md",
     "Home.md",
+    "Projects/04-AI-Assistant/Docs/AI-variant.md",
+    "Projects/03-Data-Analytics/03-Data-Analytics.md",
     "Projects/00-Office/Office.md",
     "Projects/00-Office",
     "Houdini-Learning/Progress/vlad-progress.md",
@@ -260,9 +263,7 @@
     "Houdini-Learning/Theory/07-Procedural-Modeling-Basics.md",
     "Houdini-Learning/Theory/06-CNC-and-3DPrint-Integration.md",
     "English-Learning",
-    "Docs/Pathregist.md",
     "Без названия.canvas",
-    "2026-02-20.md",
     "Без названия 1.canvas",
     "DATABASE.base",
     "Houdini-Learning/Roadmap.canvas",
