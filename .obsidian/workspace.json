@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office.md",
+                "file": "Projects/00-Office/Office.md",
                 "mode": "source",
                 "source": false
               },
@@ -216,10 +216,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "18373721d63cd4be",
+  "active": "7376adf4492cd42e",
   "lastOpenFiles": [
+    "Projects/00-Office/Office.md",
+    "Projects/00-Office",
+    "Houdini-Learning/Progress/vlad-progress.md",
+    "project.md",
     "Home.md",
-    "Office.md",
     "conflict-files-obsidian-git.md",
     "Tasks.md",
     "_AFK_ZONE.md",
@@ -261,13 +264,9 @@
     "Без названия.canvas",
     "2026-02-20.md",
     "Без названия 1.canvas",
-    "Archive/e-mail sorter/e-mail sorter v4.md",
-    "Archive/e-mail sorter/e-mail sorter v3.md",
-    "Archive/e-mail sorter/e-mail sorter v2.md",
     "DATABASE.base",
     "Houdini-Learning/Roadmap.canvas",
     "Docs/Houdini-Reference/01-Basics/videos/tumbling.mp4",
-    "videos",
     "Docs/Houdini-Reference/01-Basics/images/ui/viewports_space_t2.png",
     "Houdini-Learning/test.canvas",
     "Projects/04-AI-Assistant/AI.canvas",

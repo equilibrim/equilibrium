@@ -54,6 +54,12 @@ created: 2026-03-18
 ## 📚 Документация
 
 [[01-CNC-Laser]]
+[[02-3D-Printer]]
+[[3DPrint-Preview]]
+[[06-CNC-and-3DPrint-Integration]]
+[[Home]]
+[[Alex-progress]]
+[[vlad-progress]]
 
 ---
 

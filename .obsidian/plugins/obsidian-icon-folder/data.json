@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiActivity",
       "LiActivitySquare",
       "LiAsteriskSquare",
       "LiAlertOctagon",
-      "LiBackpack",
-      "LiAreaChart"
+      "LiBackpack"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -193,7 +193,12 @@
     "iconName": "LiApple",
     "iconColor": "#aa893d"
   },
-  "Office.md": {
+  "Houdini-Learning/Progress/vlad-progress.md": "LiActivity",
+  "Projects/00-Office/Office.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#ff0000"
+  },
+  "Projects/00-Office": {
     "iconName": "LiActivitySquare",
     "iconColor": "#ff0000"
   }
