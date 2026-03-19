@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
-          },
-          {
-            "id": "a2e810d7c5c1842a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +202,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a2e810d7c5c1842a",
+  "active": "5c1619674fca89c9",
   "lastOpenFiles": [
     "WTF.canvas",
     "Home.md",
