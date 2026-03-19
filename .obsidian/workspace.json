@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6662e8c2c0ea4d2b",
+        "id": "18b1adbb704b20ef",
         "type": "tabs",
         "children": [
           {
-            "id": "5c1619674fca89c9",
+            "id": "f2a8a0e4b4e25e40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/00-Office/Office.md",
-                "mode": "preview",
+                "file": "Home.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Office"
+              "title": "Home"
             }
           }
         ]
@@ -206,10 +206,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5c1619674fca89c9",
+  "active": "f2a8a0e4b4e25e40",
   "lastOpenFiles": [
-    "Home.md",
     "Projects/00-Office/Office.md",
+    "Home.md",
     "conflict-files-obsidian-git.md",
     "Projects/01-CNC-Laser/Photos/power_Supply_24V_20A_S-480-24.jpg",
     "Projects/01-CNC-Laser/Docs/GRBL-Overview.md",
