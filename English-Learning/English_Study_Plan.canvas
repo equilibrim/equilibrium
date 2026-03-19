@@ -1,0 +1,52 @@
+{
+	"nodes":[
+		{"id":"header","type":"text","text":"# 🗺️ UNIVERSAL ENGLISH ROADMAP\n---\n## [ A1 FOUNDATION → ELEMENTARY ]\n**Methodology:** Step-by-step grammar integration with real-world media and linguistic nuances.","x":-200,"y":-650,"width":1040,"height":160,"color":"6"},
+		{"id":"m1","type":"text","text":"### 01 | SYNTAX & BASIC VERBS\n- **Core:** Bebris, pp. 12–25\n- **Nuance:** Parts of Speech (Jovin, 29–37)\n- **Media:** *Muzzy in Gondoland* (Ep. 1)\n- **Reading:** Oxford Bookworms (Starter)","x":-200,"y":-450,"width":400,"height":180},
+		{"id":"m2","type":"text","text":"### 02 | ACTIONS & S-ENDING\n- **Core:** Bebris, pp. 26–44\n- **Nuance:** Good vs Well (Jovin, 61–67)\n- **Media:** *Frozen* (\"Build a Snowman\")\n- **Reading:** Peppa Pig: Family Stories","x":-200,"y":-230,"width":400,"height":180},
+		{"id":"m3","type":"text","text":"### 03 | ARTICLES & OBJECTS\n- **Core:** Bebris, pp. 45–62\n- **Nuance:** Article Traps (Jovin, 181–186)\n- **Media:** *Toy Story* (\"You are a toy!\")\n- **Reading:** \"Red Roses\" (Stage 1)","x":-200,"y":-10,"width":400,"height":180},
+		{"id":"m4","type":"text","text":"### 04 | QUESTIONS (DO/DOES)\n- **Core:** Bebris, pp. 63–92\n- **Nuance:** Farther vs Further (Jovin, 74–79)\n- **Media:** *Finding Nemo* (Interview scenes)\n- **Reading:** Adapted Short Stories","x":-200,"y":210,"width":400,"height":180},
+		{"id":"m5","type":"text","text":"### 05 | STATES (TO BE)\n- **Core:** Bebris, pp. 93–146\n- **Nuance:** S-V Agreement (Jovin, 370–383)\n- **Media:** *Extra English* (Ep. 1)\n- **Reading:** Jovin Examples (pp. 29–46)","x":-200,"y":430,"width":400,"height":180},
+		{"id":"m6","type":"text","text":"### 06 | FUTURE (WILL)\n- **Core:** Bebris, pp. 147–169\n- **Nuance:** Contractions (Jovin, 161–165)\n- **Media:** Movie Trailers (Action/Sci-Fi)\n- **Reading:** \"The Coldest Place\" (Stage 1)","x":-200,"y":650,"width":400,"height":180},
+		{"id":"m7","type":"text","text":"### 07 | PAST SIMPLE (-ED)\n- **Core:** Bebris, pp. 170–201\n- **Nuance:** Irregular Verbs (Jovin, 252–273)\n- **Media:** *Forrest Gump* (Intro Scene)\n- **Reading:** Harry Potter (Chapter 1)","x":-200,"y":870,"width":400,"height":180},
+		{"id":"m8","type":"text","text":"### 08 | FINAL ASSESSMENT\n- **Core:** Bebris, pp. 202–245 (Was/Were)\n- **Nuance:** Word Traps (38–46)\n- **Media:** Pixar Shorts (Oral Retelling)\n- **Reading:** Final Test (Bebris, p. 246)","x":-200,"y":1090,"width":400,"height":180},
+		{"id":"pdf1","type":"text","text":"📂 **ATTACH PDF / EXCERPT**\n[[Урок 1 Построение простых предложений (I work, We see).pdf]]\n[[Урок 1.1 Зачем нужны названия частей речи и как они работают в жизни..pdf]]\nOxford Bookworms (Level Starter):\nhttps://drive.google.com/drive/folders/0ByKeZjlHtSH2NDVXWmhvUDFLV0E?resourcekey=0-hBapKw7Ri4FX1426U_bREw","x":340,"y":-450,"width":400,"height":180,"color":"1"},
+		{"id":"pdf2","type":"text","text":"📂 **ATTACH PDF / EXCERPT**\n(Module 02 Materials)","x":340,"y":-230,"width":400,"height":180,"color":"1"},
+		{"id":"pdf3","type":"text","text":"📂 **ATTACH PDF / EXCERPT**\n(Module 03 Materials)","x":340,"y":-10,"width":400,"height":180,"color":"1"},
+		{"id":"pdf4","type":"text","text":"📂 **ATTACH PDF / EXCERPT**\n(Module 04 Materials)","x":340,"y":210,"width":400,"height":180,"color":"1"},
+		{"id":"pdf5","type":"text","text":"📂 **ATTACH PDF / EXCERPT**\n(Module 05 Materials)","x":340,"y":430,"width":400,"height":180,"color":"1"},
+		{"id":"pdf6","type":"text","text":"📂 **ATTACH PDF / EXCERPT**\n(Module 06 Materials)","x":340,"y":650,"width":400,"height":180,"color":"1"},
+		{"id":"pdf7","type":"text","text":"📂 **ATTACH PDF / EXCERPT**\n(Module 07 Materials)","x":340,"y":870,"width":400,"height":180,"color":"1"},
+		{"id":"pdf8","type":"text","text":"📂 **ATTACH PDF / EXCERPT**\n(Module 08 Materials)","x":340,"y":1090,"width":400,"height":180,"color":"1"}
+	],
+	"edges":[
+		{"id":"e2","fromNode":"m1","fromSide":"bottom","toNode":"m2","toSide":"top"},
+		{"id":"e3","fromNode":"m2","fromSide":"bottom","toNode":"m3","toSide":"top"},
+		{"id":"e4","fromNode":"m3","fromSide":"bottom","toNode":"m4","toSide":"top"},
+		{"id":"e5","fromNode":"m4","fromSide":"bottom","toNode":"m5","toSide":"top"},
+		{"id":"e6","fromNode":"m5","fromSide":"bottom","toNode":"m6","toSide":"top"},
+		{"id":"e7","fromNode":"m6","fromSide":"bottom","toNode":"m7","toSide":"top"},
+		{"id":"e8","fromNode":"m7","fromSide":"bottom","toNode":"m8","toSide":"top"},
+		{
+			"id":"e1",
+			"toFloating":false,
+			"fromFloating":false,
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"header",
+			"fromSide":"bottom",
+			"toNode":"m1",
+			"toSide":"top"
+		},
+		{"id":"link1","fromNode":"m1","fromSide":"right","toNode":"pdf1","toSide":"left","label":"materials"},
+		{"id":"link2","fromNode":"m2","fromSide":"right","toNode":"pdf2","toSide":"left","label":"materials"},
+		{"id":"link3","fromNode":"m3","fromSide":"right","toNode":"pdf3","toSide":"left","label":"materials"},
+		{"id":"link4","fromNode":"m4","fromSide":"right","toNode":"pdf4","toSide":"left","label":"materials"},
+		{"id":"link5","fromNode":"m5","fromSide":"right","toNode":"pdf5","toSide":"left","label":"materials"},
+		{"id":"link6","fromNode":"m6","fromSide":"right","toNode":"pdf6","toSide":"left","label":"materials"},
+		{"id":"link7","fromNode":"m7","fromSide":"right","toNode":"pdf7","toSide":"left","label":"materials"},
+		{"id":"link8","fromNode":"m8","fromSide":"right","toNode":"pdf8","toSide":"left","label":"materials"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
