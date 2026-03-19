@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/00-Office/Office.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Office"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "5c1619674fca89c9",
   "lastOpenFiles": [
+    "Home.md",
     "Projects/00-Office/Office.md",
     "conflict-files-obsidian-git.md",
     "Projects/01-CNC-Laser/Photos/power_Supply_24V_20A_S-480-24.jpg",
@@ -217,7 +218,6 @@
     "English-Learning/English_Study_Plan.canvas",
     "English-Learning",
     "WTF.canvas",
-    "Home.md",
     "Projects/03-Data-Analytics/Scripts/e-mail parser v1.2.md",
     "videos/view.mp4.md",
     "videos",
