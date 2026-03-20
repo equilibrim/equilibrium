@@ -1,5 +1,5 @@
 ---
 status: in-progress
-priority: 01-critical
+priority: 03-medium
 team: All
 ---
