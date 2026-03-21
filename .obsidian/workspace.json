@@ -11,10 +11,14 @@
             "id": "d8135458a9c8f1ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Fasters printer in 2025"
             }
           }
         ]
@@ -189,6 +193,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "excel:Create Excel File": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -204,6 +209,9 @@
   },
   "active": "d8135458a9c8f1ae",
   "lastOpenFiles": [
+    "Projects/02-3D-Printer/02-3D-Printer.md",
+    "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
+    "Projects/02-3D-Printer/Document",
     "Projects/00-Office/equipment.sheet.md",
     "Home.md",
     "Projects/00-Office/~$Оборудование.xlsx",
@@ -235,7 +243,6 @@
     "Projects/03-Data-Analytics/Scripts/svod/e-mail-sorter-v4.2.py",
     "Projects/03-Data-Analytics/Scripts/svod/e-mail-parser-v1.3.py",
     "Projects/03-Data-Analytics/Scripts/svod/e-mail sorter v4.2.py",
-    "Projects/03-Data-Analytics/Scripts/svod/e-mail parser v1.3.py",
     "Projects/03-Data-Analytics/Scripts/svod/TXT/organization.md",
     "Projects/03-Data-Analytics/Scripts/svod/TXT/key.md",
     "Projects/03-Data-Analytics/Scripts/e-mail-sorter-v4.1.md",
@@ -251,9 +258,7 @@
     "Projects/01-CNC-Laser/Photos/A4988_Stepper_Driver.jpg",
     "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
     "Projects/01-CNC-Laser/Docs/README.md",
-    "Projects/01-CNC-Laser/Docs/Inventory.md",
     "Projects/01-CNC-Laser/CNC.canvas",
-    "Houdini-Learning/Practice/10-Procedural-Cities/Procedural-Cities.md",
     "Houdini-Learning/Roadmap.canvas",
     "CNC.canvas",
     "AI.canvas",
