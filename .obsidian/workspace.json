@@ -11,12 +11,14 @@
             "id": "d8135458a9c8f1ae",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "markdown",
               "state": {
-                "file": "Projects/00-Office/equipment.sheet.md"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "equipment.sheet"
+              "title": "Home"
             }
           }
         ]
@@ -207,12 +209,12 @@
   },
   "active": "d8135458a9c8f1ae",
   "lastOpenFiles": [
+    "Projects/00-Office/equipment.sheet.md",
     "Projects/00-Office/~$Оборудование.xlsx",
     "Home.md",
     "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
     "Projects/02-3D-Printer/02-3D-Printer.md",
     "Projects/02-3D-Printer/Document",
-    "Projects/00-Office/equipment.sheet.md",
     "Projects/00-Office/Оборудование.xlsx",
     "Projects/00-Office/Без названия.md",
     "Projects/00-Office/Office.md",
