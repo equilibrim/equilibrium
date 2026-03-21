@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e3970c170c3dea",
+        "id": "18b1adbb704b20ef",
         "type": "tabs",
         "children": [
           {
-            "id": "541a907592689155",
+            "id": "f2a8a0e4b4e25e40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "34f9327cf898a648",
-            "type": "leaf",
-            "state": {
-              "type": "excel-view",
+              "type": "markdown",
               "state": {
-                "file": "Projects/00-Office/equipment.sheet.md"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "equipment.sheet"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 300
   },
   "right": {
     "id": "1431750cadd6d0a0",
@@ -136,7 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -164,26 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
-            "id": "dee4c0c5334116bf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "d7e07c7fc671ede1",
+            "id": "ebc47f74c4c1cacc",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -193,7 +175,7 @@
             }
           },
           {
-            "id": "ee00a3998302207b",
+            "id": "3f8befa01802db4f",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -202,12 +184,11 @@
               "title": "Juggl style"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -219,46 +200,48 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "juggl:Juggl global graph": false,
-      "excel:Create Excel File": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "18373721d63cd4be",
+  "active": "f2a8a0e4b4e25e40",
   "lastOpenFiles": [
-    "Excel 2026-03-20 13.47.20.sheet.md",
     "Projects/00-Office/equipment.sheet.md",
-    "Projects/00-Office/Office.md",
+    "Projects/00-Office/~$Оборудование.xlsx",
+    "Projects/00-Office/Оборудование.xlsx",
+    "Projects/00-Office/Без названия.md",
     "Home.md",
+    "Projects/00-Office/Office.md",
     "conflict-files-obsidian-git.md",
-    "Projects/00-Office",
-    "README.md",
-    "Tasks.md",
-    "WTF.canvas",
-    "English-Learning/English_Study_Plan.canvas",
-    "English-Learning/Materials/1-Syntax-basic-verbs/Урок 1.1 Зачем нужны названия частей речи и как они работают в жизни..pdf",
-    "English-Learning/Materials/1-Syntax-basic-verbs/Урок 1 Построение простых предложений (I work, We see).pdf",
-    "English-Learning/Materials/1-Syntax-basic-verbs",
-    "English-Learning/Books",
-    "English-Learning/Books/Джовин_Эллен_Реальный_английский_TEXT_UP_2024_a4.pdf",
-    "English-Learning/Books/Английский с нуля.pdf",
-    "English-Learning/Materials",
-    "English_Study_Plan.canvas",
-    "English-Learning",
     "Projects/01-CNC-Laser/Photos/power_Supply_24V_20A_S-480-24.jpg",
     "Projects/01-CNC-Laser/Docs/GRBL-Overview.md",
     "Projects/01-CNC-Laser/Docs/Firmware-Setup-GRBL.md",
-    "Projects/01-CNC-Laser/Docs/Inventory.md",
-    "Projects/01-CNC-Laser/01-CNC-Laser.md",
-    "Docs/SESSION_CONTEXT.md",
-    "Docs/Pathregist.md",
+    "Projects/00-Office",
+    "English-Learning/English_Study_Plan.canvas",
+    "English-Learning",
+    "WTF.canvas",
+    "Projects/03-Data-Analytics/Scripts/e-mail parser v1.2.md",
+    "videos/view.mp4.md",
+    "videos",
+    "Tasks.md",
+    "Shared/Templates/project-template.md",
+    "Shared/Templates/idea-template.md",
     "Projects/04-AI-Assistant/Docs/top-6-local-models.md",
     "Projects/04-AI-Assistant/Docs/local-ai-guide.md",
     "Projects/04-AI-Assistant/Docs/how-to-start-ai.md",
     "Projects/04-AI-Assistant/Docs/Continue-Setup.md",
+    "Projects/04-AI-Assistant/Docs/04-AI-Assistant-Docs-FAST-TREVEL.md",
+    "Projects/04-AI-Assistant/AI.canvas",
+    "Projects/03-Data-Analytics/Scripts/svod/Список организаций.txt",
+    "Projects/03-Data-Analytics/Scripts/svod/Организации.md",
     "Projects/03-Data-Analytics/Scripts/svod/e-mail-sorter-v4.2.py",
+    "Projects/03-Data-Analytics/Scripts/svod/e-mail-parser-v1.3.py",
+    "Projects/03-Data-Analytics/Scripts/svod/e-mail sorter v4.2.py",
+    "Projects/03-Data-Analytics/Scripts/svod/e-mail parser v1.3.py",
+    "Projects/03-Data-Analytics/Scripts/svod/TXT/organization.md",
+    "Projects/03-Data-Analytics/Scripts/svod/TXT/key.md",
     "Projects/03-Data-Analytics/Scripts/e-mail-sorter-v4.1.md",
     "Projects/03-Data-Analytics/Scripts/e-mail-parser-v1.2.md",
     "Projects/01-CNC-Laser/Photos/TFT_LCD_3.5_Shield_ILI9488.jpg",
@@ -272,17 +255,13 @@
     "Projects/01-CNC-Laser/Photos/A4988_Stepper_Driver.jpg",
     "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
     "Projects/01-CNC-Laser/Docs/README.md",
-    "Houdini-Learning/Progress/vlad-progress.md",
-    "Shared/Templates/idea-template.md",
-    "Shared/Templates/project-template.md",
-    "Projects/04-AI-Assistant/04-AI-Assistant.md",
-    "Projects/01-CNC-Laser/Docs/CNC self hands.md",
+    "Projects/01-CNC-Laser/Docs/Inventory.md",
     "Projects/01-CNC-Laser/CNC.canvas",
+    "Houdini-Learning/Practice/10-Procedural-Cities/Procedural-Cities.md",
     "Houdini-Learning/Roadmap.canvas",
-    "Projects/04-AI-Assistant/AI.canvas",
-    "Houdini-Learning/test.canvas",
-    "AI.canvas",
     "CNC.canvas",
-    "Untitled.canvas"
+    "AI.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
   ]
 }
