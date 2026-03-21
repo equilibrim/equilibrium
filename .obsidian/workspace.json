@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/02-3D-Printer/02-3D-Printer.md",
+                "file": "Projects/02-3D-Printer/Document/List-idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-3D-Printer"
+              "title": "List-idea"
             }
           }
         ]
@@ -209,12 +209,12 @@
   },
   "active": "d8135458a9c8f1ae",
   "lastOpenFiles": [
+    "Projects/02-3D-Printer/02-3D-Printer.md",
     "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
     "Projects/02-3D-Printer/Document/List-idea.md",
     "Home.md",
     "Projects/00-Office/equipment.sheet.md",
     "Projects/00-Office/~$Оборудование.xlsx",
-    "Projects/02-3D-Printer/02-3D-Printer.md",
     "Projects/02-3D-Printer/Document",
     "Projects/00-Office/Оборудование.xlsx",
     "Projects/00-Office/Без названия.md",
