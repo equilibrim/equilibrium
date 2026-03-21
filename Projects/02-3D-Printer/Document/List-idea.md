@@ -43,3 +43,6 @@ https://makerworld.com/ru/models/122754-perpetual-table-calendar?from=search#pro
 
 # Workout Calendar
 https://makerworld.com/ru/models/1933318-workout-calendar?from=search#profileId-2075645
+
+# Anycubic Kobra S1 Combo ACE PRO Silica Gel Box
+https://makerworld.com/ru/models/1222801-anycubic-kobra-s1-combo-ace-pro-silica-gel-box?from=search#profileId-1239931
