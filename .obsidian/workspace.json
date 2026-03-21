@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18b1adbb704b20ef",
+        "id": "310d5cabad78243d",
         "type": "tabs",
         "children": [
           {
-            "id": "f2a8a0e4b4e25e40",
+            "id": "d8135458a9c8f1ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/00-Office/equipment.sheet.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "equipment.sheet"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -206,10 +202,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f2a8a0e4b4e25e40",
+  "active": "d8135458a9c8f1ae",
   "lastOpenFiles": [
-    "Home.md",
     "Projects/00-Office/equipment.sheet.md",
+    "Home.md",
     "Projects/00-Office/~$Оборудование.xlsx",
     "Projects/00-Office/Оборудование.xlsx",
     "Projects/00-Office/Без названия.md",
