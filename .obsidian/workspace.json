@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e3970c170c3dea",
+        "id": "24e79e546a0aef17",
         "type": "tabs",
         "children": [
           {
-            "id": "541a907592689155",
+            "id": "4bae3d3cb90dfd7d",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -29,10 +30,19 @@
               },
               "icon": "lucide-file",
               "title": "Home"
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Projects/02-3D-Printer/Document/List-idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List-idea"
+>>>>>>> origin/main
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +82,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -89,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 300
   },
   "right": {
     "id": "1431750cadd6d0a0",
@@ -221,13 +231,13 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
+      "obsidian-kanban:Создать новую доску": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "juggl:Juggl global graph": false,
-      "excel:Create Excel File": false
+      "juggl:Juggl global graph": false
     }
   },
+<<<<<<< HEAD
   "active": "34f9327cf898a648",
   "lastOpenFiles": [
     "README.md",
@@ -237,54 +247,64 @@
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Projects/00-Office",
+=======
+  "active": "4bae3d3cb90dfd7d",
+  "lastOpenFiles": [
+    "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
+    "Home.md",
+    "README.md",
+    "DATABASE.base",
+    "Projects/00-Office/Office.md",
+    "Projects/02-3D-Printer/Document/List-idea.md",
+    "Projects/02-3D-Printer/Document",
+    "Projects/00-Office/equipment.sheet.md",
+>>>>>>> origin/main
     "Tasks.md",
-    "WTF.canvas",
-    "English-Learning/English_Study_Plan.canvas",
-    "English-Learning/Materials/1-Syntax-basic-verbs/Урок 1.1 Зачем нужны названия частей речи и как они работают в жизни..pdf",
-    "English-Learning/Materials/1-Syntax-basic-verbs/Урок 1 Построение простых предложений (I work, We see).pdf",
-    "English-Learning/Materials/1-Syntax-basic-verbs",
-    "English-Learning/Books",
-    "English-Learning/Books/Джовин_Эллен_Реальный_английский_TEXT_UP_2024_a4.pdf",
-    "English-Learning/Books/Английский с нуля.pdf",
-    "English-Learning/Materials",
-    "English_Study_Plan.canvas",
-    "English-Learning",
-    "Projects/01-CNC-Laser/Photos/power_Supply_24V_20A_S-480-24.jpg",
-    "Projects/01-CNC-Laser/Docs/GRBL-Overview.md",
-    "Projects/01-CNC-Laser/Docs/Firmware-Setup-GRBL.md",
-    "Projects/01-CNC-Laser/Docs/Inventory.md",
     "Projects/01-CNC-Laser/01-CNC-Laser.md",
+    "Projects/04-AI-Assistant/Docs/AI-variant.md",
+    "Projects/03-Data-Analytics/03-Data-Analytics.md",
+    "Projects/00-Office",
+    "Houdini-Learning/Progress/vlad-progress.md",
+    "project.md",
+    "conflict-files-obsidian-git.md",
+    "_AFK_ZONE.md",
+    "English-Learning/English_Study_Plan.canvas",
+    "WTF.canvas",
     "Docs/SESSION_CONTEXT.md",
-    "Docs/Pathregist.md",
+    "Shared/Templates/project-template.md",
+    "Shared/Templates/idea-template.md",
     "Projects/04-AI-Assistant/Docs/top-6-local-models.md",
     "Projects/04-AI-Assistant/Docs/local-ai-guide.md",
     "Projects/04-AI-Assistant/Docs/how-to-start-ai.md",
     "Projects/04-AI-Assistant/Docs/Continue-Setup.md",
     "Projects/03-Data-Analytics/Scripts/svod/e-mail-sorter-v4.2.py",
+    "Projects/03-Data-Analytics/Scripts/svod/e-mail-parser-v1.3.py",
     "Projects/03-Data-Analytics/Scripts/e-mail-sorter-v4.1.md",
     "Projects/03-Data-Analytics/Scripts/e-mail-parser-v1.2.md",
     "Projects/01-CNC-Laser/Photos/TFT_LCD_3.5_Shield_ILI9488.jpg",
     "Projects/01-CNC-Laser/Photos/RAMPS_1.4_Shield.jpg",
-    "Projects/01-CNC-Laser/Photos/ower_Supply_24V_20A_S-480-24.jpg",
+    "Projects/01-CNC-Laser/Photos/power_Supply_24V_20A_S-480-24.jpg",
     "Projects/01-CNC-Laser/Photos/Nema17_17HS4402_Extruder.jpg",
+    "Projects/01-CNC-Laser/Photos/info.txt",
     "Projects/01-CNC-Laser/Photos/Dupont_Jumper_Wires_Ribbon.jpg",
     "Projects/01-CNC-Laser/Photos/BigTreeTech_RAMPS_1.6_Plus.jpg",
     "Projects/01-CNC-Laser/Photos/Arduino_Uno_R3_Clone.jpg",
     "Projects/01-CNC-Laser/Photos/Arduino_Mega_2560.jpg",
     "Projects/01-CNC-Laser/Photos/A4988_Stepper_Driver.jpg",
+    "Projects/01-CNC-Laser/Photos",
     "Projects/01-CNC-Laser/Docs/cnc-build-log.md",
     "Projects/01-CNC-Laser/Docs/README.md",
-    "Houdini-Learning/Progress/vlad-progress.md",
-    "Shared/Templates/idea-template.md",
-    "Shared/Templates/project-template.md",
-    "Projects/04-AI-Assistant/04-AI-Assistant.md",
-    "Projects/01-CNC-Laser/Docs/CNC self hands.md",
-    "Projects/01-CNC-Laser/CNC.canvas",
+    "Inbox/system-prompt.txt",
+    "Inbox/structure.txt",
+    "English-Learning",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
     "Houdini-Learning/Roadmap.canvas",
-    "Projects/04-AI-Assistant/AI.canvas",
+    "Docs/Houdini-Reference/01-Basics/images/ui/viewports_space_t2.png",
     "Houdini-Learning/test.canvas",
+    "Projects/04-AI-Assistant/AI.canvas",
+    "Projects/01-CNC-Laser/CNC.canvas",
     "AI.canvas",
-    "CNC.canvas",
-    "Untitled.canvas"
+    "CNC.canvas"
   ]
 }
