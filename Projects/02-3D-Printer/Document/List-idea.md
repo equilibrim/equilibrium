@@ -5,8 +5,9 @@
 ## Мастерская и организация
 
 - [High Performance Spool Desiccant Container Holder](https://makerworld.com/ru/models/1193993-high-performance-spool-desiccant-container-holder?from=recommend#profileId-1214551) - Держатель для контейнера с силикагелем для катушек с филаментом.
+- [Gridfinity Milwaukee Pliers](https://makerworld.com/ru/models/969358-gridfinity-milwaukee-pliers#profileId-940675) - Хранилище для инструментов в системе Gridfinity.
 - [Gridfinity Rotating Bit Storage](https://makerworld.com/ru/models/893146-gridfinity-rotating-bit-storage#profileId-2655226) - Вращающееся хранилище для бит в системе Gridfinity.
-- [Gridfinity Storage Box V2 [5x4]](https://makerworld.com/ru/models/2359984-gridfinity-storage-box-v2-5x4?from=recommend#profileId-2582008) - Контейнер для хранения в системе Gridfinity.
+[Gridfinity Storage Box V2 5x4 - Контейнер для хранения в системе Gridfinity.
 - [Schubox Open Drawer V2 [5X4]](https://makerworld.com/ru/models/2399756-schubox-open-drawer-v2-5x4#profileId-2630110) - Открытый ящик-контейнер.
 - [Rugged Drawer System - Gridfinity Stackable](https://makerworld.com/ru/models/810461-rugged-drawer-system-gridfinity-stackable?from=recommend#profileId-1364128) - Прочная модульная система ящиков, совместимая с Gridfinity.
 - [Modular Pegboard Panel (IKEA compatible)](https://makerworld.com/ru/models/932107-modular-pegboard-panel-ikea-compatible?from=recommend#profileId-896267) - Модульная перфорированная панель, совместимая с IKEA SKÅDIS.
