@@ -22,7 +22,7 @@
 
 ## Для дома и декор
 
-- [Transcend](https://makerworld.com/ru/models/1230224-transcend?from=recommend#profileId-1248860) - Абстрактная скульптура.
+- [Transcend](https://makerworld.com/ru/models/1230224-transcend?from=recommend#profileId-1248860) - Скульптура вознесенного человека.
 - [Perpetual Table Calendar](https://makerworld.com/ru/models/122754-perpetual-table-calendar?from=search#profileId-2221349) - Вечный настольный календарь.
 - [Workout Calendar](https://makerworld.com/ru/models/1933318-workout-calendar?from=search#profileId-2075645) - Календарь для отслеживания тренировок.
 
