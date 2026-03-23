@@ -1,6 +1,7 @@
 # High Performance Spool Desiccant Container Holder
 https://makerworld.com/ru/models/1193993-high-performance-spool-desiccant-container-holder?from=recommend#profileId-1214551
-
+# Gridfinity Rotating Bit Storage
+https://makerworld.com/ru/models/893146-gridfinity-rotating-bit-storage#profileId-2655226
 # Gridfinity Storage Box V2 [5x4]
 https://makerworld.com/ru/models/2359984-gridfinity-storage-box-v2-5x4?from=recommend#profileId-2582008
 

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPrinter",
       "LiActivity",
       "LiActivitySquare",
       "LiAsteriskSquare",
-      "LiAlertOctagon",
-      "LiBackpack"
+      "LiAlertOctagon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -201,5 +201,9 @@
   "Projects/00-Office": {
     "iconName": "LiActivitySquare",
     "iconColor": "#ff0000"
+  },
+  "Projects/02-3D-Printer": {
+    "iconName": "LiPrinter",
+    "iconColor": "#1eff00"
   }
 }
