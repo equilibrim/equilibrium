@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0082ee506f266e42",
+        "id": "72a2e1d078766fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "c76c856bc151ea17",
+            "id": "b29a1c24f7b3240b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -213,13 +213,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c76c856bc151ea17",
+  "active": "b29a1c24f7b3240b",
   "lastOpenFiles": [
     "Projects/02-3D-Printer/Document/List-idea.md",
+    "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
     "Projects/02-3D-Printer/Models/Gridfinity/Boxes",
     "Projects/02-3D-Printer/Models/Gridfinity/Case 4x5",
     "Projects/02-3D-Printer/Models/Gridfinity",
-    "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
     "Projects/00-Office/equipment.sheet.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
