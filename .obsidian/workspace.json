@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/02-3D-Printer/Document/List-idea.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -230,10 +230,10 @@
   },
   "active": "34f9327cf898a648",
   "lastOpenFiles": [
-    "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
-    "Projects/02-3D-Printer/Document/List-idea.md",
-    "Home.md",
     "conflict-files-obsidian-git.md",
+    "Projects/02-3D-Printer/Document/List-idea.md",
+    "Projects/02-3D-Printer/Document/Fasters printer in 2025.md",
+    "Home.md",
     "Projects/02-3D-Printer/Document",
     "README.md",
     "Projects/00-Office/equipment.sheet.md",
