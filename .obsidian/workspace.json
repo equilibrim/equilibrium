@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/00-Office/Office.md",
+                "file": "Projects/02-3D-Printer/Document/List-idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Office"
+              "title": "List-idea"
+            }
+          },
+          {
+            "id": "5a4324eb9c45dd76",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +230,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "afaf98efd92d8f32",
+  "active": "5a4324eb9c45dd76",
   "lastOpenFiles": [
+    "Projects/00-Office/Office.md",
     "Projects/00-Office/equipment.sheet.md",
     "Projects/02-3D-Printer/Document/List-idea.md",
     "Projects/02-3D-Printer/Models/Gridfinity/Boxes/Rotating_Bit_Storage",
@@ -228,7 +242,6 @@
     "Projects/02-3D-Printer/Models/Gridfinity/Boxes",
     "Projects/02-3D-Printer/Models/Gridfinity/Case 4x5",
     "Projects/02-3D-Printer/Models/Gridfinity",
-    "Projects/00-Office/Office.md",
     "README.md",
     "DATABASE.base",
     "Projects/02-3D-Printer/Document",
